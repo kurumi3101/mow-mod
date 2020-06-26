@@ -1,0 +1,8 @@
+{material bump
+	{diffuse "$/inventory/weapon/holo_sight"}
+	{bump "$/inventory/weapon/holo_sight_bp"}
+	{specular "$/inventory/weapon/holo_sight_sp"}
+	{color "255 255 255 255"}
+	{blend blend}
+	{emitsheat}
+}

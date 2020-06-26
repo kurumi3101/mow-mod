@@ -1,0 +1,89 @@
+;Exported by: Administrator
+;Date:        Wed Jul 23 09:17:21 2014
+;File:        D:\新建文件夹\新建文件夹\mg42.max
+{Skeleton
+	{bone "hk416"
+		{parameters "CommonMesh;ID=smg;"}
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{VolumeView "hk416.ply"}
+		{bone "foresight3"
+			{Position 10.7977	1.99168	0.0302833}
+		}
+		{bone "fxshell"
+			{Matrix34
+				0	0.130526	0.991445
+				-1	0	0
+				0	-0.991445	0.130526
+				3.18439	1.82407	0.336599
+			}
+		}
+		{bone "handle"
+			{Matrix34
+				1	0	0
+				0	0	-1
+				0	1	0
+				-0.0355384	-0.0388299	-0.0216718
+			}
+		}
+	}
+}
+{Volume "body"
+	{Box 23.1538 3.36158 1.17113}
+	{Bone "hk416"}
+	{Position 1.54603	1.53498	-0.0662547}
+}
+{Volume "select"
+	{Box 27.7845 9.72703 4.3449}
+	{Bone "hk416"}
+	{Position 1.35125	0.262325	0.287518}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin 2.82876	-6.29614	29.9766}
+			{lookat 2.16376	-3.5837	13.4472}
+			{fov 45}
+			{horizon -177.044}
+		}
+		{lights
+			{"0"
+				{type point}
+				{position 10.6224	-3.79673	5.55959}
+			}
+			{"1"
+				{type directional}
+				{direction -0.0792752	0.197722	-0.452351}
+			}
+			{"2"
+				{type point}
+				{position -7.5912	-3.19049	3.99025}
+			}
+		}
+	}
+	{"Stuff_primary"
+		{camera
+			{origin 2.84038	-6.40912	30.6376}
+			{lookat 2.14879	-3.58819	13.4471}
+			{fov 45}
+			{horizon -177.044}
+		}
+		{lights
+			{"0"
+				{type point}
+				{position 10.6224	-3.79673	5.55959}
+			}
+			{"1"
+				{type directional}
+				{direction -0.0792752	0.197722	-0.452351}
+			}
+			{"2"
+				{type point}
+				{position -7.5912	-3.19049	3.99025}
+			}
+		}
+	}
+}

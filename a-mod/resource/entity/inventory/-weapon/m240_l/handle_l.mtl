@@ -1,0 +1,8 @@
+{material bump
+	{diffuse "$/inventory/weapon/m240_l_butt"}
+	{bump "$/inventory/weapon/m240_l_butt_bp"}
+	{specular "$/inventory/weapon/m240_l_butt_sp"}
+	{color "255 255 255 25"}
+	{blend none}
+	{emitsheat}
+}

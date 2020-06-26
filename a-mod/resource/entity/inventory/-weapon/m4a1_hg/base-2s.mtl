@@ -1,0 +1,9 @@
+{material bump
+	{diffuse "$/inventory/weapon/m4a1"}
+	{bump "$/inventory/weapon/m4a1_bp"}
+	{specular "$/inventory/weapon/m4a1_sp"}
+	{color "255 255 255 255"}
+	{blend test}
+	{alphatocoverage}
+	{emitsheat}
+}

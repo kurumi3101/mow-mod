@@ -1,0 +1,6 @@
+{mod
+	{name "a-mod"}
+	{desc "nothing"}
+	{minGameVersion "3.260"}
+	{MaxGameVersion "3.265.0"}
+}

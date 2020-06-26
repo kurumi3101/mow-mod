@@ -1,0 +1,9 @@
+{material bump
+	{diffuse "$/inventory/weapon/laser_ pointer"}
+	{bump "$/inventory/weapon/laser_ pointer_bp"}
+	{specular "$/inventory/weapon/laser_ pointer_sp"}
+	{color "255 255 255 25"}
+	{blend none}
+	{specular_intensity 2.5}
+	{emitsheat}
+}

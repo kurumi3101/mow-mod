@@ -1,0 +1,8 @@
+{material bump
+	{diffuse "$/inventory/weapon/m39emr_scope"}
+	{bump "$/inventory/weapon/m39emr_scope_bp"}
+	{specular "$/inventory/weapon/m39emr_scope_sp"}
+	{color "255 255 255 255"}
+	{blend none}
+	{emitsheat}
+}

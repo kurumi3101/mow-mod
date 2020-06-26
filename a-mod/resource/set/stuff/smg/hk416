@@ -1,0 +1,15 @@
+{from "pattern smg"
+	{tag "assaultrifle"}
+	{mass 5}
+	{filling "ammo pistol" 30}
+	{entity "hk416"}
+	{fireSound	"smg/m16/"}
+	{reloadSound "smg/m16/"}
+
+	{range 60 65}
+	{healthDamage 150}
+	("recoveryTime" r(700))
+	("burst_short")
+	("accuracy_automatic_rifle")
+ 	("speed" s(890))
+}

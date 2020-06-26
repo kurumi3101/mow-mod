@@ -1,0 +1,1432 @@
+{tags
+	{"human"
+		{"special"
+			{"hint" "提示"}
+			{"narrator_eng" "<c(c3baae)>军官"}
+			{"narrator_ger" "<c(c3baae)>军官"}
+			{"narrator_jap" "<c(c3baae)>军官"}
+			{"narrator_rus" "<c(c3baae)>军官"}
+			{"narrator_usa" "<c(c3baae)>军官"}
+			{"narrator_peasant" "平民"}
+		}
+		{"specila"
+			{"narrator_scientist" "科学家"}
+		}
+		{"mp"
+			{"cus"
+				{"nepgear" "<c(c3baae)>涅普基雅"}
+				{"nepgear_dmr" "<c(c3baae)>涅普基雅"}
+				{"nepgear_fire_support" "<c(c3baae)>涅普基雅"}
+				{"nepgear_at" "<c(c3baae)>涅普基雅"}
+			}
+			{"rus"
+				{"ap_miner" "<c(c3baae)>战斗工兵（反步兵地雷）"}
+				{"at_miner" "<c(c3baae)>战斗工兵（反坦克地雷）"}
+				{"at_rifle" "<c(c3baae)>反坦克步枪兵"}
+				{"at_rifle2" "<c(c3baae)>反坦克步枪支援兵"}
+				{"bazooker" "<c(c3baae)>反坦克步兵"}
+				{"bazooker2" "<c(c3baae)>反坦克支援兵"}
+				{"elite" "<c(c3baae)>海军陆战队"}
+				{"elite2" "<c(c3baae)>海军陆战队"}
+				{"elite3" "<c(c3baae)>海军陆战队"}
+				{"elite4" "<c(c3baae)>近卫步兵"}
+				{"elite5" "<c(c3baae)>近卫步兵"}
+				{"elite6" "<c(c3baae)>近卫步兵"}
+				{"elite_at" "<c(c3baae)>海军陆战队"}
+				{"flamer" "<c(c3baae)>喷火兵"}
+				{"flamer2" "<c(c3baae)>喷火支援兵"}
+				{"flamer3" "<c(c3baae)>突击步兵"}
+				{"home_guard" "<c(c3baae)>游击队员"}
+				{"home_guard2" "<c(c3baae)>游击队员"}
+				{"medic" "<c(c3baae)>医疗兵"}
+				{"mgun" "<c(c3baae)>机枪手"}
+				{"oficer" "<c(c3baae)>军官"}
+				{"radioman" "<c(c3baae)>无线电通讯员"}
+				{"rifle" "<c(c3baae)>步枪兵"}
+				{"rifle2" "<c(c3baae)>突击步枪兵"}
+				{"rifle3" "<c(c3baae)>步枪兵"}
+				{"saper" "<c(c3baae)>排雷专家"}
+				{"scout" "<c(c3baae)>特种部队"}
+				{"smg" "<c(c3baae)>冲锋枪兵"}
+				{"smg2" "<c(c3baae)>突击冲锋枪兵"}
+				{"smg3" "<c(c3baae)>突击步兵"}
+				{"smg4" "<c(c3baae)>突击步兵"}
+				{"sniper" "<c(c3baae)>狙击手"}
+				{"sniper2" "<c(c3baae)>近卫狙击手"}
+				{"sturmovik" "<c(c3baae)>赤卫队"}
+				{"sturmovik2" "<c(c3baae)>赤卫队"}
+				{"sturmovik3" "<c(c3baae)>赤卫队"}
+				{"sturmovik4" "<c(c3baae)>赤卫队"}
+				{"sturmovik4b" "<c(c3baae)>赤卫队"}
+				{"sturmovik5" "<c(c3baae)>赤卫队"}
+				{"sturmovik5b" "<c(c3baae)>赤卫队"}
+				{"sturmovik6" "<c(c3baae)>赤卫队"}
+				{"sturmovik6b" "<c(c3baae)>赤卫队"}
+				{"squadleader" "<c(c3baae)>小队队长"}
+				{"squadleader2" "<c(c3baae)>突击小队队长"}
+				{"tankman" "<c(c3baae)>坦克队员"}
+				{"tankman2" "<c(c3baae)>坦克指挥官"}
+				{"vehicle_supporter" "<c(c3baae)>士兵"}
+				{"kuznetsoff_sp" "<c(c3baae)>阿列克谢·库兹涅佐夫"}
+				{"kuznetsoff" "<c(c3baae)>阿列克谢·库兹涅佐夫"}
+				{"kuznetsoff_pr" "<c(c3baae)>阿列克谢·库兹涅佐夫"}
+				{"maverick" "<c(c3baae)>特立独行的俄国间谍"}
+				{"smirnoff" "<c(c3baae)>维克托·斯米尔诺夫"}
+			}
+			{"usa"
+				{"ap_miner" "<c(c3baae)>战斗工兵（反步兵地雷）"}
+				{"at_miner" "<c(c3baae)>战斗工兵（反坦克地雷）"}
+				{"bazooker" "<c(c3baae)>反坦克步兵"}
+				{"bazooker2" "<c(c3baae)>反坦克支援兵"}
+				{"elite" "<c(c3baae)>空降兵"}
+				{"elite2" "<c(c3baae)>空降兵"}
+				{"elite3" "<c(c3baae)>空降兵"}
+				{"elite4" "<c(c3baae)>美国海军陆战队"}
+				{"elite5" "<c(c3baae)>美国海军陆战队"}
+				{"elite6" "<c(c3baae)>美国海军陆战队"}
+				{"elite_at" "<c(c3baae)>空降兵"}
+				{"elite_para" "<c(c3baae)>第 101 空降师"}
+				{"flamer" "<c(c3baae)>喷火兵"}
+				{"flamer2" "<c(c3baae)>喷火支援兵"}
+				{"home_guard" "<c(c3baae)>应征士兵"}
+				{"home_guard2" "<c(c3baae)>应征士兵"}
+				{"medic" "<c(c3baae)>医疗兵"}
+				{"mgun" "<c(c3baae)>机枪手"}
+				{"mgun2" "<c(c3baae)>机枪手"}
+				{"oficer" "<c(c3baae)>军官"}
+				{"radioman" "<c(c3baae)>无线电通讯员"}
+				{"rifle" "<c(c3baae)>步枪兵"}
+				{"rifle2" "<c(c3baae)>突击步枪兵"}
+				{"saper" "<c(c3baae)>排雷专家"}
+				{"saper2" "<c(c3baae)>战斗工兵"}
+				{"scout" "<c(c3baae)>突击队"}
+				{"scout2" "<c(c3baae)>突击队"}
+				{"smg" "<c(c3baae)>冲锋枪兵"}
+				{"smg2" "<c(c3baae)>突击冲锋枪兵"}
+				{"sniper" "<c(c3baae)>狙击手"}
+				{"shotgun" "<c(c3baae)>霰弹枪兵"}
+				{"sturmovik" "<c(c3baae)>游骑兵"}
+				{"sturmovik2" "<c(c3baae)>游骑兵"}
+				{"sturmovik3" "<c(c3baae)>游骑兵"}
+				{"sturmovik4" "<c(c3baae)>游骑兵"}
+				{"sturmovik4b" "<c(c3baae)>游骑兵"}
+				{"sturmovik5" "<c(c3baae)>游骑兵"}
+				{"sturmovik5b" "<c(c3baae)>游骑兵"}
+				{"sturmovik6" "<c(c3baae)>游骑兵"}
+				{"sturmovik6b" "<c(c3baae)>游骑兵"}
+				{"squadleader" "<c(c3baae)>小队队长"}
+				{"squadleader2" "<c(c3baae)>突击小队队长"}
+				{"tankman" "<c(c3baae)>坦克队员"}
+				{"tankman2" "<c(c3baae)>坦克指挥官"}
+				{"vehicle_supporter" "<c(c3baae)>士兵"}
+			}
+			{"ger"
+				{"ap_miner" "<c(c3baae)>战斗工兵（反步兵地雷）"}
+				{"at_miner" "<c(c3baae)>战斗工兵（反坦克地雷）"}
+				{"at_rifle" "<c(c3baae)>反坦克步枪兵"}
+				{"at_rifle2" "<c(c3baae)>反坦克步枪支援兵"}
+				{"bazooker" "<c(c3baae)>反坦克步兵"}
+				{"bazooker2" "<c(c3baae)>反坦克支援兵"}
+				{"bazooker3" "<c(c3baae)>反坦克步兵"}
+				{"elite" "<c(c3baae)>空降兵"}
+				{"elite2" "<c(c3baae)>空降兵"}
+				{"elite3" "<c(c3baae)>空降兵"}
+				{"elite4" "<c(c3baae)>勃兰登堡部队"}
+				{"elite5" "<c(c3baae)>勃兰登堡部队"}
+				{"elite6" "<c(c3baae)>勃兰登堡部队"}
+				{"elite_at" "<c(c3baae)>空降兵"}
+				{"flamer" "<c(c3baae)>喷火兵"}
+				{"flamer2" "<c(c3baae)>喷火支援兵"}
+				{"home_guard" "<c(c3baae)>人民冲锋队"}
+				{"home_guard2" "<c(c3baae)>人民冲锋队"}
+				{"medic" "<c(c3baae)>医疗兵"}
+				{"mgun" "<c(c3baae)>机枪手"}
+				{"oficer" "<c(c3baae)>军官"}
+				{"radioman" "<c(c3baae)>无线电通讯员"}
+				{"rifle" "<c(c3baae)>步枪兵"}
+				{"rifle2" "<c(c3baae)>突击步枪兵"}
+				{"saper" "<c(c3baae)>排雷专家"}
+				{"smg" "<c(c3baae)>冲锋枪兵"}
+				{"smg2" "<c(c3baae)>突击冲锋枪兵"}
+				{"sniper" "<c(c3baae)>狙击手"}
+				{"sniper2" "<c(c3baae)>狙击手老兵"}
+				{"sturmovik" "<c(c3baae)>装甲掷弹兵"}
+				{"sturmovik2" "<c(c3baae)>装甲掷弹兵"}
+				{"sturmovik3" "<c(c3baae)>装甲掷弹兵"}
+				{"sturmovik4" "<c(c3baae)>装甲掷弹兵"}
+				{"sturmovik4b" "<c(c3baae)>装甲掷弹兵"}
+				{"sturmovik5" "<c(c3baae)>装甲掷弹兵"}
+				{"sturmovik5b" "<c(c3baae)>装甲掷弹兵"}
+				{"sturmovik6" "<c(c3baae)>装甲掷弹兵"}
+				{"sturmovik6b" "<c(c3baae)>装甲掷弹兵"}
+				{"squadleader" "<c(c3baae)>小队队长"}
+				{"squadleader2" "<c(c3baae)>突击小队队长"}
+				{"tankman" "<c(c3baae)>坦克队员"}
+				{"tankman2" "<c(c3baae)>坦克指挥官"}
+				{"vehicle_supporter" "<c(c3baae)>士兵"}
+			}
+			{"eng"
+				{"ap_miner" "<c(c3baae)>战斗工兵（反步兵地雷）"}
+				{"at_miner" "<c(c3baae)>战斗工兵（反坦克地雷）"}
+				{"at_rifle" "<c(c3baae)>反坦克步枪兵"}
+				{"at_rifle2" "<c(c3baae)>反坦克步枪支援兵"}
+				{"bazooker" "<c(c3baae)>反坦克步兵"}
+				{"bazooker2" "<c(c3baae)>反坦克支援兵"}
+				{"elite" "<c(c3baae)>突击队"}
+				{"elite2" "<c(c3baae)>突击队"}
+				{"elite3" "<c(c3baae)>突击队"}
+				{"elite4" "<c(c3baae)>澳新军团"}
+				{"elite5" "<c(c3baae)>澳新军团"}
+				{"elite6" "<c(c3baae)>澳新军团"}
+				{"elite_at" "<c(c3baae)>突击队"}
+				{"flamer" "<c(c3baae)>喷火兵"}
+				{"flamer2" "<c(c3baae)>喷火支援兵"}
+				{"home_guard" "<c(c3baae)>民兵"}
+				{"home_guard2" "<c(c3baae)>民兵"}
+				{"medic" "<c(c3baae)>医疗兵"}
+				{"mgun" "<c(c3baae)>机枪手"}
+				{"mgun2" "<c(c3baae)>机枪手"}
+				{"oficer" "<c(c3baae)>军官"}
+				{"radioman" "<c(c3baae)>无线电通讯员"}
+				{"rifle" "<c(c3baae)>步枪兵"}
+				{"rifle2" "<c(c3baae)>突击步枪兵"}
+				{"rifle3" "<c(c3baae)>步枪兵"}
+				{"saper" "<c(c3baae)>排雷专家"}
+				{"saper2" "<c(c3baae)>皇家工兵"}
+				{"saper3" "<c(c3baae)>皇家工兵"}
+				{"scout" "<c(c3baae)>破坏者"}
+				{"smg" "<c(c3baae)>冲锋枪兵"}
+				{"smg2" "<c(c3baae)>突击冲锋枪兵"}
+				{"smg3" "<c(c3baae)>冲锋枪兵"}
+				{"sniper" "<c(c3baae)>狙击手"}
+				{"sturmovik" "<c(c3baae)>特种空勤团士兵"}
+				{"sturmovik2" "<c(c3baae)>特种空勤团士兵"}
+				{"sturmovik3" "<c(c3baae)>特种空勤团士兵"}
+				{"sturmovik4" "<c(c3baae)>特种空勤团士兵"}
+				{"sturmovik4b" "<c(c3baae)>特种空勤团士兵"}
+				{"sturmovik4c" "<c(c3baae)>特种空勤团士兵"}
+				{"sturmovik5" "<c(c3baae)>特种空勤团士兵"}
+				{"sturmovik5b" "<c(c3baae)>特种空勤团士兵"}
+				{"sturmovik6" "<c(c3baae)>特种空勤团士兵"}
+				{"sturmovik6b" "<c(c3baae)>特种空勤团士兵"}
+				{"squadleader" "<c(c3baae)>小队队长"}
+				{"squadleader2" "<c(c3baae)>突击小队队长"}
+				{"tankman" "<c(c3baae)>坦克队员"}
+				{"tankman2" "<c(c3baae)>坦克指挥官"}
+				{"vehicle_supporter" "<c(c3baae)>士兵"}
+			}
+			{"jap"
+				{"at_miner" "<c(c3baae)>战斗工兵（反步兵地雷）"}
+				{"ap_miner" "<c(c3baae)>战斗工兵（反坦克地雷）"}
+				{"at_rifle" "<c(c3baae)>反坦克步枪兵"}
+				{"at_rifle2" "<c(c3baae)>反坦克步枪支援兵"}
+				{"bazooker" "<c(c3baae)>反坦克步兵"}
+				{"bazooker2" "<c(c3baae)>反坦克支援兵"}
+				{"bazooker3" "<c(c3baae)>反坦克步兵"}
+				{"elite" "<c(c3baae)>空降兵"}
+				{"elite2" "<c(c3baae)>空降兵"}
+				{"elite3" "<c(c3baae)>空降兵"}
+				{"elite4" "<c(c3baae)>空降兵"}
+				{"elite_at" "<c(c3baae)>空降兵"}
+				{"flamer" "<c(c3baae)>喷火兵"}
+				{"flamer2" "<c(c3baae)>喷火支援兵"}
+				{"home_guard" "<c(c3baae)>新兵"}
+				{"home_guard2" "<c(c3baae)>新兵"}
+				{"kamikaze" "<c(c3baae)>神风特攻队"}
+				{"medic" "<c(c3baae)>医疗兵"}
+				{"mgun" "<c(c3baae)>机枪手"}
+				{"oficer" "<c(c3baae)>军官"}
+				{"radioman" "<c(c3baae)>无线电通讯员"}
+				{"rifle" "<c(c3baae)>步枪兵"}
+				{"rifle2" "<c(c3baae)>突击步枪兵"}
+				{"saper" "<c(c3baae)>排雷专家"}
+				{"smg" "<c(c3baae)>冲锋枪兵"}
+				{"smg2" "<c(c3baae)>突击冲锋枪兵"}
+				{"sniper" "<c(c3baae)>狙击手"}
+				{"sturmovik" "<c(c3baae)>海军特别陆战队士兵"}
+				{"sturmovik2" "<c(c3baae)>海军特别陆战队士兵"}
+				{"sturmovik3" "<c(c3baae)>海军特别陆战队士兵"}
+				{"sturmovik4" "<c(c3baae)>海军特别陆战队士兵"}
+				{"sturmovik4b" "<c(c3baae)>海军特别陆战队士兵"}
+				{"sturmovik5" "<c(c3baae)>海军特别陆战队士兵"}
+				{"sturmovik5b" "<c(c3baae)>海军特别陆战队士兵"}
+				{"sturmovik6" "<c(c3baae)>海军特别陆战队士兵"}
+				{"sturmovik6b" "<c(c3baae)>海军特别陆战队士兵"}
+				{"squadleader" "<c(c3baae)>小队队长"}
+				{"squadleader2" "<c(c3baae)>突击小队队长"}
+				{"tankman" "<c(c3baae)>坦克队员"}
+				{"tankman2" "<c(c3baae)>坦克指挥官"}
+				{"vehicle_supporter" "<c(c3baae)>士兵"}
+			}
+			{"ger2"
+				{"ap_miner" "<c(c3baae)>战斗工兵（反步兵地雷）"}
+				{"at_miner" "<c(c3baae)>战斗工兵（反坦克地雷）"}
+				{"at_rifle" "<c(c3baae)>反坦克步枪兵"}
+				{"at_rifle2" "<c(c3baae)>反坦克步枪支援兵"}
+				{"bazooker" "<c(c3baae)>反坦克步兵"}
+				{"bazooker2" "<c(c3baae)>反坦克支援兵"}
+				{"bazooker3" "<c(c3baae)>反坦克步兵"}
+				{"elite" "<c(c3baae)>猎兵"}
+				{"elite2" "<c(c3baae)>猎兵"}
+				{"elite3" "<c(c3baae)>猎兵"}
+				{"elite4" "<c(c3baae)>惩戒部队步兵"}
+				{"elite5" "<c(c3baae)>惩戒部队步兵"}
+				{"elite6" "<c(c3baae)>惩戒部队步兵"}
+				{"elite_at" "<c(c3baae)>猎兵"}
+				{"flamer" "<c(c3baae)>喷火兵"}
+				{"flamer2" "<c(c3baae)>喷火支援兵"}
+				{"home_guard" "<c(c3baae)>轻侦察兵"}
+				{"home_guard2" "<c(c3baae)>轻侦察兵"}
+				{"mgun" "<c(c3baae)>机枪手"}
+				{"oficer" "<c(c3baae)>军官"}
+				{"oficer2" "<c(c3baae)>军官老兵"}
+				{"radioman" "<c(c3baae)>无线电通讯员"}
+				{"rifle" "<c(c3baae)>步枪兵"}
+				{"rifle2" "<c(c3baae)>突击部队步兵"}
+				{"saper" "<c(c3baae)>排雷专家"}
+				{"smg" "<c(c3baae)>冲锋枪兵"}
+				{"smg2" "<c(c3baae)>突击部队冲锋枪兵"}
+				{"sniper" "<c(c3baae)>狙击手"}
+				{"sturmovik" "<c(c3baae)>山地猎兵"}
+				{"sturmovik2" "<c(c3baae)>山地猎兵"}
+				{"sturmovik3" "<c(c3baae)>山地猎兵"}
+				{"sturmovik4" "<c(c3baae)>山地猎兵"}
+				{"sturmovik4b" "<c(c3baae)>山地猎兵"}
+				{"sturmovik5" "<c(c3baae)>山地猎兵"}
+				{"sturmovik5b" "<c(c3baae)>山地猎兵"}
+				{"sturmovik6" "<c(c3baae)>山地猎兵"}
+				{"sturmovik6b" "<c(c3baae)>山地猎兵"}
+				{"squadleader" "<c(c3baae)>小队队长"}
+				{"squadleader2" "<c(c3baae)>突击部队小队队长"}
+				{"tankman" "<c(c3baae)>坦克队员老兵"}
+				{"tankman2" "<c(c3baae)>坦克指挥官老兵"}
+				{"vehicle_supporter" "<c(c3baae)>士兵"}
+			}
+		}
+		{"civilian"
+			{"civilian1" "平民"}
+			{"civilian2" "平民"}
+			{"civilian3" "平民"}
+			{"civilian4" "平民"}
+			{"civilian5" "平民"}
+		}
+	}
+	{"squad"
+		{"ap_miners(eng)" "战斗工兵（反步兵地雷）"}
+		{"ap_miners(ger)" "战斗工兵（反步兵地雷）"}
+		{"ap_miners(jap)" "战斗工兵（反步兵地雷）"}
+		{"ap_miners(rus)" "战斗工兵（反步兵地雷）"}
+		{"ap_miners(usa)" "战斗工兵（反步兵地雷）"}
+		{"ap_miners(ger2)" "战斗工兵（反步兵地雷）"}
+		{"at_miners(eng)" "战斗工兵（反坦克地雷）"}
+		{"at_miners(ger)" "战斗工兵（反坦克地雷）"}
+		{"at_miners(jap)" "战斗工兵（反坦克地雷）"}
+		{"at_miners(rus)" "战斗工兵（反坦克地雷）"}
+		{"at_miners(usa)" "战斗工兵（反坦克地雷）"}
+		{"at_miners(ger2)" "战斗工兵（反坦克地雷）"}
+		{"at_rifles(eng)" "反坦克步枪兵"}
+		{"at_rifles(ger)" "反坦克步枪兵"}
+		{"at_rifles(jap)" "反坦克步枪兵"}
+		{"at_rifles(rus)" "反坦克步枪兵"}
+		{"at_rifles(ger2)" "反坦克步枪兵"}
+		{"bazookers(eng)" "反坦克步兵"}
+		{"bazookers(ger)" "反坦克步兵"}
+		{"bazookers(jap)" "反坦克步兵"}
+		{"bazookers(rus)" "反坦克步兵"}
+		{"bazookers(usa)" "反坦克步兵"}
+		{"bazookers(ger2)" "反坦克步兵"}
+		{"elites(eng)" "突击队"}
+		{"elites(ger)" "空降兵"}
+		{"elites(jap)" "空降兵"}
+		{"elites(rus)" "海军陆战队"}
+		{"elites(usa)" "空降兵"}
+		{"elites(ger2)" "猎兵"}
+		{"flamers(eng)" "喷火兵"}
+		{"flamers(ger)" "喷火兵"}
+		{"flamers(jap)" "喷火兵"}
+		{"flamers(rus)" "喷火兵"}
+		{"flamers(usa)" "喷火兵"}
+		{"flamers(ger2)" "喷火兵"}
+		{"home_guards(eng)" "民兵"}
+		{"home_guards(ger)" "人民冲锋队"}
+		{"home_guards(jap)" "新兵"}
+		{"home_guards(rus)" "游击队员"}
+		{"home_guards(usa)" "应征士兵"}
+		{"home_guards(ger2)" "轻侦察兵"}
+		{"kamikazes(jap)" "神风特攻队"}
+		{"mgs2(eng)" "机枪手"}
+		{"mgs2(ger)" "机枪手"}
+		{"mgs2(jap)" "机枪手"}
+		{"mgs2(rus)" "机枪手"}
+		{"mgs2(usa)" "机枪手"}
+		{"mgs2(ger2)" "机枪手"}
+		{"officers(eng)" "军官"}
+		{"officers(ger)" "军官"}
+		{"officers(jap)" "军官"}
+		{"officers(rus)" "军官"}
+		{"officers(usa)" "军官"}
+		{"officers(ger2)" "军官"}
+		{"riflemans(eng)" "常规步兵"}
+		{"riflemans(ger)" "常规步兵"}
+		{"riflemans(jap)" "常规步兵"}
+		{"riflemans(rus)" "常规步兵"}
+		{"riflemans(usa)" "常规步兵"}
+		{"riflemans(ger2)" "老兵"}
+		{"riflemans2(eng)" "步枪兵"}
+		{"riflemans2(ger)" "步枪兵"}
+		{"riflemans2(jap)" "步枪兵"}
+		{"riflemans2(rus)" "步枪兵"}
+		{"riflemans2(usa)" "步枪兵"}
+		{"riflemans2(ger2)" "步枪兵"}
+		{"sappers(eng)" "排雷专家"}
+		{"sappers(ger)" "排雷专家"}
+		{"sappers(jap)" "排雷专家"}
+		{"sappers(rus)" "排雷专家"}
+		{"sappers(usa)" "排雷专家"}
+		{"sappers(ger2)" "排雷专家"}
+		{"smgs(eng)" "突击步兵"}
+		{"smgs(ger)" "突击步兵"}
+		{"smgs(jap)" "突击步兵"}
+		{"smgs(rus)" "突击步兵"}
+		{"smgs(usa)" "突击步兵"}
+		{"smgs(ger2)" "突击部队"}
+		{"smgs2(eng)" "冲锋枪兵"}
+		{"smgs2(ger)" "冲锋枪兵"}
+		{"smgs2(jap)" "冲锋枪兵"}
+		{"smgs2(rus)" "冲锋枪兵"}
+		{"smgs2(usa)" "冲锋枪兵"}
+		{"smgs2(ger2)" "冲锋枪兵"}
+		{"snipers(eng)" "狙击手"}
+		{"snipers(ger)" "狙击手"}
+		{"snipers(jap)" "狙击手"}
+		{"snipers(rus)" "狙击手"}
+		{"snipers(usa)" "狙击手"}
+		{"snipers(ger2)" "狙击手"}
+		{"snipers_d(eng)" "狙击手"}
+		{"snipers_d(ger)" "狙击手"}
+		{"snipers_d(jap)" "狙击手"}
+		{"snipers_d(rus)" "狙击手"}
+		{"snipers_d(usa)" "狙击手"}
+		{"shotguns(usa)" "霰弹枪手"}
+		{"stormtroopers(eng)" "特种空勤团"}
+		{"stormtroopers1(eng)" "精英神射手"}
+		{"stormtroopers2(eng)" "精英反坦克步兵"}
+		{"stormtroopers3(eng)" "精英支援步兵"}
+		{"stormtroopers(ger)" "装甲掷弹兵"}
+		{"stormtroopers1(ger)" "精英神射手"}
+		{"stormtroopers2(ger)" "精英反坦克步兵"}
+		{"stormtroopers3(ger)" "精英支援步兵"}
+		{"stormtroopers(jap)" "海军特别陆战队"}
+		{"stormtroopers1(jap)" "精英神射手"}
+		{"stormtroopers2(jap)" "精英反坦克步兵"}
+		{"stormtroopers3(jap)" "精英支援步兵"}
+		{"stormtroopers(rus)" "赤卫队"}
+		{"stormtroopers1(rus)" "精英神射手"}
+		{"stormtroopers2(rus)" "精英反坦克步兵"}
+		{"stormtroopers3(rus)" "精英支援步兵"}
+		{"stormtroopers(usa)" "游骑兵"}
+		{"stormtroopers1(usa)" "精英神射手"}
+		{"stormtroopers2(usa)" "精英反坦克步兵"}
+		{"stormtroopers3(usa)" "精英支援步兵"}
+		{"stormtroopers(ger2)" "山地猎兵"}
+		{"stormtroopers1(ger2)" "神射手老兵"}
+		{"stormtroopers2(ger2)" "反坦克步兵老兵"}
+		{"stormtroopers3(ger2)" "支援步兵老兵"}
+		{"storm_mech_eng" "机械化特种空勤团"}
+		{"storm_mech_ger" "机械化装甲掷弹兵"}
+		{"storm_mech_jap" "机械化海军特别陆战队"}
+		{"storm_mech_rus" "机械化赤卫队"}
+		{"storm_mech_usa" "机械化游骑兵"}
+		{"storm_mech_ost" "机械化山地猎兵"}
+		{"tankmans(eng)" "坦克队员"}
+		{"tankmans(ger)" "坦克队员"}
+		{"tankmans(jap)" "坦克队员"}
+		{"tankmans(rus)" "坦克队员"}
+		{"tankmans(usa)" "坦克队员"}
+		{"tankmans(ger2)" "坦克队员老兵"}
+		{"hero1_eng" "破坏者"}
+		{"hero2_eng" "皇家工兵"}
+		{"hero3_eng" "澳新军团"}
+		{"hero4_eng" "皇家突击队"}
+		{"hero5_eng" "无线电通讯员"}
+		{"hero6_eng" "丘吉尔鳄鱼坦克"}
+		{"hero7_eng" "皇家炮兵团"}
+		{"hero8_eng" "丘吉尔 AVRE 坦克"}
+		{"hero9_eng" "黑王子步兵坦克"}
+		{"heronew1_eng" "黑卫士兵团"}
+		{"heronew2_eng" "克伦威尔 Mk.VI 坦克"}
+		{"heronew3_eng" "M4A4 郁金香"}
+		{"hero1_ger" "狙击手老兵"}
+		{"hero2_ger" "勃兰登堡部队"}
+		{"hero3_ger" "歌利亚"}
+		{"hero4_ger" "空降猎兵"}
+		{"hero5_ger" "无线电通讯员"}
+		{"hero6_ger" "StuH 42 自行突击炮"}
+		{"hero7_ger" "41 年式喷烟者"}
+		{"hero8_ger" "老练虎"}
+		{"hero9_ger" "突击虎"}
+		{"heronew1_ger" "“铁拳”火箭筒小队"}
+		{"heronew2_ger" "黄鼠狼 III 自行反坦克炮H 型"}
+		{"heronew3_ger" "PAK 43 反坦克炮"}
+		{"hero1_ost" "军官老兵"}
+		{"hero2_ost" "“坦克杀手”火箭筒小队"}
+		{"hero3_ost" "SdKfz 234/3 型半履带车"}
+		{"hero4_ost" "惩戒部队"}
+		{"hero5_ost" "突击部队"}
+		{"hero6_ost" "SdKfz 234/4 型半履带车"}
+		{"hero7_ost" "无线电通讯员"}
+		{"hero8_ost" "俘虏坦克 T-34/85"}
+		{"hero9_ost" "28 厘米 41 年式喷烟者"}
+		{"hero10_ost" "37 型高射炮 SdKfz 8 半履带车"}
+		{"hero11_ost" "灰熊式突击炮"}
+		{"hero12_ost" "猎虎式自行反坦克炮"}
+		{"hero1_jap" "反坦克枪榴弹小队"}
+		{"hero2_jap" "神风特攻队！"}
+		{"hero3_jap" "祖国之怒"}
+		{"hero4_jap" "海军空降兵"}
+		{"hero5_jap" "无线电通讯员"}
+		{"hero6_jap" "万岁！"}
+		{"hero7_jap" "200 毫米火箭炮"}
+		{"hero8_jap" "海军坦克"}
+		{"hero9_jap" "试制五式炮战车 1 型"}
+		{"heronew1_jap" "SS-D 火焰坦克"}
+		{"heronew2_jap" "Ho-Ni 3 战车"}
+		{"heronew3_jap" "九七式迫击炮"}
+		{"hero1_rus" "特种部队"}
+		{"hero2_rus" "近卫步兵"}
+		{"hero3_rus" "近卫狙击手"}
+		{"hero4_rus" "黑大衣"}
+		{"hero5_rus" "冲锋！"}
+		{"hero6_rus" "无线电通讯员"}
+		{"hero7_rus" "突击兵部队"}
+		{"hero8_rus" "KV-2 重型坦克"}
+		{"hero9_rus" "203 毫米 B-4 型榴弹炮"}
+		{"heronew1_rus" "突击步兵"}
+		{"heronew2_rus" "BS-3 重型坦克"}
+		{"heronew3_rus" "BM-8-24 重型坦克"}
+		{"hero1_usa" "M8 自行火炮"}
+		{"hero2_usa" "美国海军陆战队"}
+		{"hero3_usa" "第 101 空降师"}
+		{"hero4_usa" "M4A3R2 鳄鱼坦克"}
+		{"hero5_usa" "无线电通讯员"}
+		{"hero6_usa" "M4A3(105) 谢尔曼坦克"}
+		{"hero7_usa" "大规模生产"}
+		{"hero8_usa" "M4A3E2“小飞象”(76)W 型"}
+		{"hero9_usa" "超级潘兴"}
+		{"heronew1_usa" ".30 口径 A6 式勃朗宁轻机枪"}
+		{"heronew2_usa" "战斗工兵"}
+		{"heronew3_usa" "魔鬼旅"}
+	}
+	{"entity"
+		{"155gpf" "GPF 加农炮"}
+		{"203b4" "203 毫米 B-4 型榴弹炮"}
+		{"20mm_u_boat" "防空炮"}
+		{"88mm_u_boat" "41 型高射炮"}
+		{"achilles" "阿基里斯 1C 坦克歼击车"}
+		{"air-bag" "船只"}
+		{"archer" "“弓箭手”自行反坦克炮"}
+		{"armor_barge_cs1" "驳船"}
+		{"armor_barge_cs2" "驳船"}
+		{"armored_locomotive" "火车头"}
+		{"ba11" "BA-11 装甲车"}
+		{"ba64" "BA-64 装甲车"}
+		{"bedford" "贝德福德 OYD 卡车"}
+		{"bedford_art" "贝德福德 OYD 卡车"}
+		{"bedford_eng" "贝德福德 OYD 卡车"}
+		{"bedford_inf" "贝德福德 OYD 卡车"}
+		{"bf109g" "Bf-109 战斗机 G-16 型"}
+		{"bishop" "Mk I 主教式自行火炮"}
+		{"bk1124_k" "船只"}
+		{"bl6" "BL 6 英寸 26 cwt 榴弹炮"}
+		{"black_prince" "黑王子步兵坦克"}
+		{"blitz3_6" "欧宝闪电 3.6"}
+		{"blitz3_6_ger2" "欧宝闪电 3.6"}
+		{"blitz3_6art" "欧宝闪电 3.6"}
+		{"blitz3_6art_ger2" "欧宝闪电 3.6"}
+		{"blitz3_6eng" "欧宝闪电 3.6"}
+		{"blitz3_6eng_ger2" "欧宝闪电 3.6"}
+		{"blitz3_6f" "燃油车"}
+		{"blitz3_6inf" "欧宝闪电 3.6"}
+		{"blitz3_6m" "救护卡车"}
+		{"bm13" "BM-13 喀秋莎火箭炮"}
+		{"bm_8_24" "BM-8-24 重型坦克"}
+		{"bm37" "BM-37 式迫击炮"}
+		{"bofors" "博福斯 40 毫米 M1 高射炮 L/60 型"}
+		{"box1" "大箱子"}
+		{"box2" "小箱子"}
+		{"boxes1" "一堆箱子"}
+		{"browning_stan" "重机枪"}
+		{"browning_stan_fix" "重机枪"}
+		{"brummbar" "灰熊式突击炮"}
+		{"bs3" "BS-3 重型坦克"}
+		{"bt7a" "BT-7a 自行火炮"}
+		{"centurion" "百夫长 Mk.II"}
+		{"chicken" "鸡"}
+		{"chi-ha120" "120 毫米九七式中型坦克"}
+		{"chi-ha47" "47 毫米九七式中型坦克"}
+		{"chi-ha57" "57 毫米九七式中型坦克"}
+		{"chi-he" "一式中型坦克"}
+		{"chi-nu" "三式中型坦克"}
+		{"chi-ri" "五式中型坦克"}
+		{"chi-to" "四式中型坦克"}
+		{"churchill_avre" "丘吉尔 AVRE 坦克"}
+		{"churchill_crocodile" "丘吉尔鳄鱼坦克"}
+		{"churchill_mk_vii" "丘吉尔 Mk.VII 坦克"}
+		{"cistern" "罐车"}
+		{"cometa34" "彗星坦克"}
+		{"cow" "牛"}
+		{"crane_rail" "起重机"}
+		{"crane_rail1" "铁路起重机"}
+		{"crane_m" "起重机"}
+		{"crusaderaa2" "II 型防空巡洋坦克"}
+		{"crusaderaa1" "防空巡洋坦克"}
+		{"d1" "D1 榴弹炮"}
+		{"degtyarev_stan" "重机枪"}
+		{"degtyarev_stan_fix" "重机枪"}
+		{"destroyer_k" "船只"}
+		{"dodge" "道奇 WC-56"}
+		{"dodgewc55" "道奇 WC-55"}
+		{"dshk_stan" "DShK 重机枪"}
+		{"elefant" "象式自行反坦克炮"}
+		{"elefant_ger2" "象式自行反坦克炮"}
+		{"flak18" "18 型高射炮"}
+		{"flak37" "37 型高射炮"}
+		{"flak37_ger2" "37 型高射炮"}
+		{"flak38" "38 型高射炮"}
+		{"flak38_wheeled" "38 型高射炮"}
+		{"flak38_wheeled_ger2" "38 型高射炮"}
+		{"flak-38-1" "38 型高射炮"}
+		{"flak41" "41 型高射炮"}
+		{"gaz67" "GAZ-67 人员车"}
+		{"gaz67b" "GAZ-67B 人员车"}
+		{"gmc" "GMC CCKW 卡车"}
+		{"gmc_art" "GMC CCKW 卡车"}
+		{"gmc_cckw" "GMC CCKW-353 卡车"}
+		{"gmc_eng" "GMC CCKW 卡车"}
+		{"gmc_fuel" "GMC 加油车"}
+		{"gmc_inf" "GMC CCKW 卡车"}
+		{"grant_m3" "M3 李式坦克"}
+		{"hamilcar" "G.A.L.49 哈米尔卡滑翔机"}
+		{"ha-go" "九五式轻型坦克"}
+		{"ha-to" "四式自行迫击炮"}
+		{"hd" "哈雷摩托车"}
+		{"hetzer" "追猎者自行反坦克炮"}
+		{"hetzer_ger2" "追猎者自行反坦克炮"}
+		{"horch" "霍希轿车"}
+		{"how_a(eng)" "BL 6 英寸 26 cwt 榴弹炮"}
+		{"how_aa(eng)" "QF 3.7 英寸高射炮"}
+		{"how_b(eng)" "QF 25 磅炮"}
+		{"how_a(ger)" "sFH 18 榴弹炮"}
+		{"how_aa(ger)" "37 型高射炮"}
+		{"how_b(ger)" "le.FH 18M 榴弹炮"}
+		{"how_a(jap)" "九六式 150 毫米炮"}
+		{"how_aa(jap)" "四式 75 毫米高射炮"}
+		{"how_b(jap)" "九一式 10 厘米榴弹炮"}
+		{"how_a(rus)" "D1 榴弹炮"}
+		{"how_aa(rus)" "1939 式 61-K 高射炮"}
+		{"how_b(rus)" "M-30 榴弹炮"}
+		{"how_a(usa)" "M114 榴弹炮"}
+		{"how_aa(usa)" "博福斯 40 毫米 M1 高射炮 L/60 型"}
+		{"how_b(usa)" "M2A1 L 榴弹炮"}
+		{"how_a(ger2)" "sFH 18 榴弹炮"}
+		{"how_aa(ger2)" "37 型高射炮"}
+		{"how_b(ger2)" "le.FH 18M 榴弹炮"}
+		{"how_pak1(ger2)" "PAK 36 反坦克炮"}
+		{"how_pak2(ger2)" "PAK 38 反坦克炮"}
+		{"how_pak3(ger2)" "PAK 40 反坦克炮"}
+		{"ho-ha3mgun" "一式半履带装甲车"}
+		{"ho-i" "二式炮战车 Ho-I"}
+		{"ho-ni1" "Ho-Ni 1 战车"}
+		{"ho-ni2" "Ho-Ni 2 战车"}
+		{"ho-ni_3" "Ho-Ni 3 战车"}
+		{"ho-ri" "试制五式炮战车 2 型"}
+		{"ho-ri_1" "试制五式炮战车 1 型"}
+		{"ho-ro" "四式自行火炮"}
+		{"hummel" "野蜂式自行火炮"}
+		{"il-2" "伊尔-2 战斗机"}
+		{"is1" "IS-1 重型坦克"}
+		{"is2" "IS-2 重型坦克"}
+		{"is3" "IS-3 重型坦克"}
+		{"isu122" "ISU-122 自行火炮"}
+		{"isu152" "ISU-152 自行火炮"}
+		{"isuzutx40" "五十铃"}
+		{"isuzutx40art" "五十铃"}
+		{"isuzutx40_aa" "五十铃防空车"}
+		{"isuzutx40_eng" "五十铃"}
+		{"isuzutx40_inf" "五十铃"}
+		{"isuzutx40_mort" "五十铃迫击炮车"}
+		{"jagdpanther" "猎豹式自行反坦克炮"}
+		{"jagdpanzer_iv" "四号自行反坦克炮（猎豹式）"}
+		{"jagdtiger" "猎虎式自行反坦克炮"}
+		{"jagdtiger_ger2" "猎虎式自行反坦克炮"}
+		{"ju-52" "JU-52 运输机"}
+		{"ju-87" "JU-87 A-1 战斗机"}
+		{"k18" "K18 加农炮"}
+		{"k61" "61-K 高射炮"}
+		{"k61_fix" "61-K 高射炮"}
+		{"ke-nu" "四式轻型坦克"}
+		{"kfz15" "Kfz 15 霍希轿车"}
+		{"kfz15_gun" "Kfz 15 霍希轿车"}
+		{"kubel" "VW82 桶车"}
+		{"kubel_mgun" "VW82 桶车"}
+		{"kv1" "KV-1 重型坦克"}
+		{"kv2" "KV-2 重型坦克"}
+		{"kv85" "KV-85 重型坦克"}
+		{"land_mattress" "“床垫”火箭炮"}
+		{"land_mattress(eng)" "“床垫”火箭炮"}
+		{"lci(l)" "LCI(L) 登陆艇"}
+		{"lcvp" "登陆艇"}
+		{"lefh18" "le.FH 18M 榴弹炮"}
+		{"lefh18_ger2" "le.FH 18M 榴弹炮"}
+		{"lvt4" "LVT(A)-4 两栖登陆车"}
+		{"marder_3h" "黄鼠狼 III 自行反坦克炮H 型"}
+		{"m10wolverine" "M10“狼獾”式坦克歼击车"}
+		{"m114" "M114 榴弹炮"}
+		{"m12gmc" "M12 自行火炮"}
+		{"m16" "M16 半履带防空车"}
+		{"m18" "M18“地狱猫”式坦克歼击车"}
+		{"m19" "M19 自行高炮"}
+		{"m1mortar" "M1 式迫击炮"}
+		{"m1_57mm" "M1 型反坦克炮"}
+		{"m20" "M20 通用装甲车"}
+		{"m24" "M24 霞飞坦克"}
+		{"m26e4" "M26E4 超级潘兴"}
+		{"m26_pershing" "M26 潘兴坦克"}
+		{"m2a1l" "M2A1 L 榴弹炮"}
+		{"m3" "M5A1 半履带运兵车"}
+		{"m3_usa" "M3A1 半履带运兵车"}
+		{"m3_eng" "M5A1 半履带运兵车"}
+		{"m30_1938" "M-30 榴弹炮"}
+		{"m36" "M36“重击手”驱逐战车"}
+		{"m37" "M-37 反坦克炮"}
+		{"m3cannon" "M3 反坦克炮"}
+		{"m4a3c" "M4A3“管风琴”"}
+		{"m4a3e2_jumbo" "M4A3E2“小飞象”"}
+		{"m4a3e2_jumbo_76" "M4A3E2“小飞象”(76)W 型"}
+		{"m4a3e8" "M4A3E8 谢尔曼坦克 (76)W 型"}
+		{"m4a3m" "M4A3 蟹式扫雷坦克"}
+		{"m4a3m_eng" "M4A3 蟹式扫雷坦克"}
+		{"m4a3vc" "M4A4 谢尔曼萤火虫坦克"}
+		{"m4a3_75" "M4A3 谢尔曼坦克"}
+		{"m4a3_105" "M4A3 (105) 谢尔曼坦克"}
+		{"m4a3_zippo" "M4A3R2 鳄鱼坦克"}
+		{"m4a4" "M4A4 重型坦克"}
+		{"m4a4_firefly" "M4A4 谢尔曼萤火虫坦克"}
+		{"m4a4_tulip" "M4A4 郁金香"}
+		{"m5" "M5 反坦克炮"}
+		{"m5a1" "M5A1 斯图亚特坦克"}
+		{"m7" "M7 牧师式自行火炮"}
+		{"m72" "M-72 摩托车"}
+		{"m7_eng" "M7 牧师式自行火炮"}
+		{"m8" "M8 斯科特轻型坦克"}
+		{"m8grayhound" "M8“猎犬”轮式装甲车"}
+		{"m8_howitzer" "M8 自行火炮"}
+		{"maxim" "马克沁机枪"}
+		{"maxim_quad" "马克沁高射机枪"}
+		{"maxson" "M45 防空机枪塔"}
+		{"maxson_fix" "M45 防空机枪塔"}
+		{"mg1_ju52" "固定机枪"}
+		{"mg2_ju52" "固定机枪"}
+		{"mg34_stan" "重机枪"}
+		{"mg34_tower" "重机枪"}
+		{"mg42_stan" "重机枪"}
+		{"mg42_stan_fix" "重机枪"}
+		{"mk10" "MK10 重型坦克"}
+		{"mk2a" "玛蒂尔达 Mk.IIA 步兵坦克"}
+		{"mk2daimler" "戴姆勒 Mk.I 型装甲车"}
+		{"mk3" "Mk.III 型瓦伦丁坦克"}
+		{"mk4" "丘吉尔 Mk.IV 坦克"}
+		{"mk6" "Mk.VI 型巡洋坦克"}
+		{"mk7" "Mk.VII 领主式轻型坦克"}
+		{"cromwell_mk_vii" "克伦威尔 Mk.VIII 巡洋坦克"}
+		{"cromwell_mk_vi" "95 毫米克伦威尔 Mk.VIII 巡洋坦克"}
+		{"ml3" "ML 3 英寸迫击炮 Mk.II 型"}
+		{"nashorn" "犀牛自行反坦克炮"}
+		{"nashorn_ger2" "犀牛自行反坦克炮"}
+		{"nebelwerfer41" "41 年式喷烟者"}
+		{"nebelwerfer42" "42 年式喷烟者"}
+		{"oerlikon" "厄利孔 20 毫米机炮"}
+		{"oerlikon_fix" "厄利孔 20 毫米机炮"}
+		{"ostwind" "东风式防空坦克"}
+		{"ostwind_ger2" "东风式防空坦克"}
+		{"pak36" "PAK 36 反坦克炮"}
+		{"pak36_ger2" "PAK 36 反坦克炮"}
+		{"pak38" "PAK 38 反坦克炮"}
+		{"pak38_ger2" "PAK 38 反坦克炮"}
+		{"pak40" "PAK 40 反坦克炮"}
+		{"pak40_ger2" "PAK 40 反坦克炮"}
+		{"pak40_platform" "PAK 40 反坦克炮"}
+		{"pak43" "PAK 43 反坦克炮"}
+		{"pak47" "一式 47 毫米反坦克炮"}
+		{"pak57" "二式 57 毫米高射炮"}
+		{"passengervan" "客车"}
+		{"pdr25" "QF 25 磅炮"}
+		{"pg1" "摩托艇"}
+		{"platform" "平板车"}
+		{"platform_can" "平板车"}
+		{"platform_gun" "平板车"}
+		{"pz1" "一号防空坦克"}
+		{"pz1_ger2" "一号防空坦克"}
+		{"pz1b" "一号坦克 B 型"}
+		{"pz1b_ger2" "一号坦克 B 型"}
+		{"pz2f" "二号坦克 F 型"}
+		{"pz2l" "“山猫”装甲侦察车"}
+		{"pz3" "三号坦克 J 型"}
+		{"pz3_ger2" "三号坦克 J 型"}
+		{"pz3f" "三号坦克 F 型"}
+		{"pz3f_ger2" "三号坦克 F 型"}
+		{"pz3m" "三号工程坦克"}
+		{"pz3m_ger2" "三号工程坦克"}
+		{"pz3n" "三号坦克 N 型"}
+		{"pz4d" "四号坦克 D 型"}
+		{"pz4g" "四号坦克 G 型"}
+		{"pz4g_ger2" "四号坦克 G 型"}
+		{"pz4h" "四号坦克 H 型"}
+		{"pz4h_ger2" "四号坦克 H 型"}
+		{"pz5" "豹式坦克"}
+		{"pz5g" "豹式坦克"}
+		{"pz5g_ger2" "豹式坦克"}
+		{"pz6b" "“虎王”重型坦克"}
+		{"pz6bh" "“虎王”重型坦克"}
+		{"pz6bh_ger2" "“虎王”重型坦克"}
+		{"pz6e" "虎式坦克"}
+		{"pz6e_ger2" "虎式坦克"}
+		{"pz_turret" "坦克炮塔"}
+		{"p-51mustang" "P51 野马战斗机"}
+		{"qf17" "QF 17 磅炮"}
+		{"qf2" "QF 2 磅炮"}
+		{"qf6" "QF 6 磅炮"}
+		{"r12" "BMW R12 摩托车"}
+		{"r12_ger2" "BMW R12 摩托车"}
+		{"s100_k" "船只"}
+		{"searchlight" "探照灯"}
+		{"searchlight2" "探照灯"}
+		{"sdkfz138_1" "SdKfz 138/1 蟋蟀式自行火炮"}
+		{"sdkfz222" "SdKfz.222 轻型装甲侦察车"}
+		{"sdkfz223" "SdKfz.223 轻型装甲侦察车"}
+		{"sdkfz232" "SdKfz.232 轻型装甲侦察车"}
+		{"sdkfz234" "SdKfz 234 美洲狮"}
+		{"sdkfz234_ger2" "SdKfz 234 美洲狮"}
+		{"sdkfz234_1" "SdKfz 234/1 型半履带车"}
+		{"sdkfz234_3" "SdKfz 234/3 型半履带车"}
+		{"sdkfz234_4" "SdKfz 234/4 型半履带车"}
+		{"sdkfz250_1" "SdKfz 250/1 型半履带车"}
+		{"sdkfz250_11" "SdKfz 250/11 型半履带车"}
+		{"sdkfz251_1" "SdKfz 251/1 型半履带车"}
+		{"sdkfz251_1_stuka" "SdKfz 251/1 型陆地斯图卡半履带车"}
+		{"sdkfz303" "SdKfz 303 歌利亚遥控炸弹"}
+		{"sdkfz4" "42 型 150 毫米自行火箭炮"}
+		{"sdkfz7" "SdKfz 7 半履带车"}
+		{"sdkfz7_2" "SdKfz 7/2 型半履带车"}
+		{"sdkfz8" "37 型高射炮 SdKfz 8 半履带车"}
+		{"sfh18" "sFH 18 榴弹炮"}
+		{"sfh18_ger2" "sFH 18 榴弹炮"}
+		{"sgrw42" "sGrW 34 型迫击炮"}
+		{"sgrw42_ger2" "sGrW 34 型迫击炮"}
+		{"sig33" "siG 33 步兵炮"}
+		{"ss-d" "SS-D 火焰坦克"}
+		{"steam_locomotive" "火车头"}
+		{"steyr_rso" "斯泰尔 RSO 牵引车"}
+		{"stug3g" "三号突击炮 G 型"}
+		{"stuh42" "StuH 42 自行突击炮"}
+		{"sturmtiger" "突击虎"}
+		{"su122" "SU-122 突击炮"}
+		{"su76" "SU-76 自行反坦克炮"}
+		{"su85" "SU-85 自行反坦克炮"}
+		{"su100" "SU-100 自行反坦克炮"}
+		{"swg41" "28 厘米 41 年式喷烟者"}
+		{"t20" "T-20“共青团”装甲履带牵引车"}
+		{"t26" "T-26 轻型坦克"}
+		{"t29" "T29 重型坦克"}
+		{"t34_0" "T-34/76 中型坦克"}
+		{"t34_1" "T-34/57 中型坦克"}
+		{"t34_2" "T-34/76 中型坦克"}
+		{"t34_3" "T-34/85 中型坦克"}
+		{"t34_3_ger2" "俘虏坦克 T-34/85"}
+		{"t34m" "T-34 工程坦克"}
+		{"t60" "T-60 轻型坦克"}
+		{"t70" "T-70 轻型坦克"}
+		{"t90_75m" "九零式 75 毫米野战炮"}
+		{"t91_105m" "九一式 10 厘米榴弹炮"}
+		{"t96_150mm" "九六式 150 毫米炮"}
+		{"tendor" "煤水车"}
+		{"tradevan" "棚车"}
+		{"tradevan_big" "棚车"}
+		{"tradevan_explosive" "炸药车"}
+		{"tramway" "缆车"}
+		{"tramway_driveable" "缆车"}
+		{"type1hmg_stan" "重机枪"}
+		{"type1hmg_stan_fix" "重机枪"}
+		{"type2_20mm" "二式 20 毫米高射炮"}
+		{"type2_20mm_stand" "二式 20 毫米高射炮"}
+		{"type4_200mm" "四式 200 毫米火箭炮"}
+		{"type4_75mm" "四式 75 毫米高射炮"}
+		{"type96_150mm" "九六式 150 毫米炮"}
+		{"type93scout" "九二式重装甲车"}
+		{"type94" "九四式迫击炮"}
+		{"type97" "九七式摩托车"}
+		{"type_97_150mm" "九七式 150 毫米迫击炮"}
+		{"universal" "通用载具"}
+		{"universal_carrier" "布伦机枪运载车"}
+		{"u-boat" "U 型潜艇"}
+		{"veteran_tiger" "老练虎"}
+		{"vickers" "QF 3.7 英寸高射炮 Mk.II 型"}
+		{"vickers_mgun" "重机枪"}
+		{"vickers_stan" "重机枪"}
+		{"vickers_stan_fix" "重机枪"}
+		{"welberwind" "“旋风式”防空坦克"}
+		{"wespe" "黄蜂式自行火炮"}
+		{"wespe_ger2" "黄蜂式自行火炮"}
+		{"willysat" "威利斯 AT"}
+		{"willysmb" "威利斯 MB"}
+		{"willysmb_eng" "威利斯 MB"}
+		{"ya5_k" "船只"}
+		{"zis2" "ZIS-2 反坦克炮"}
+		{"zis3" "ZiS-3 加农炮"}
+		{"zis5" "ZiS-5 卡车"}
+		{"zis5art" "ZiS-5 卡车"}
+		{"zis5eng" "ZiS-5 卡车"}
+		{"zis5inf" "ZiS-5 卡车"}
+		{"zsu37" "ZSU-37 自行高炮"}
+		{"zis_30" "ZiS-30 自行反坦克炮"}
+		{"afp" "MFP 坦克登陆船 D 型"}
+		{"karlthor" "卡尔臼炮"}
+		{"305mm" "岸防炮台"}
+		{"armor_barge" "装甲驳船"}
+		{"svarka_move" "焊接装置"}
+		{"do-24t" "Do-24 水上侦察机"}
+		{"do-24t_1" "Do-24 水上侦察机"}
+		{"lg40" "LG40 无后坐力炮"}
+	}
+	{"ammo"
+		{"arl" "空对空火箭"}
+		{"bullet20 airplane" "20 毫米穿甲高射炮弹"}
+		{"bullet20 zenite" "20 毫米 Zenite 穿甲高射炮弹"}
+		{"bullet25 zenite" "25 毫米穿甲高射炮弹"}
+		{"bullet28 ap" "28 毫米穿甲弹"}
+		{"bullet28 fg" "28 毫米高爆弹"}
+		{"bullet37 ap" "37 毫米穿甲弹"}
+		{"bullet37 apcr" "37 毫米硬芯穿甲弹"}
+		{"bullet37 fg" "37 毫米高爆弹"}
+		{"bullet37 zenite" "37 毫米穿甲高射炮弹"}
+		{"bullet40 ap" "40 毫米穿甲弹"}
+		{"bullet40 apcr" "40 毫米硬芯穿甲弹"}
+		{"bullet40 fg" "40 毫米高爆弹"}
+		{"bullet40 zenite" "40 毫米穿甲高射炮弹"}
+		{"bullet45 ap" "45 毫米穿甲弹"}
+		{"bullet45 apcr" "45 毫米硬芯穿甲弹"}
+		{"bullet45 fg" "45 毫米高爆弹"}
+		{"bullet47 ap" "47 毫米穿甲弹"}
+		{"bullet47 apcr" "47 毫米硬芯穿甲弹"}
+		{"bullet47 fg" "47 毫米高爆弹"}
+		{"bullet50 ap" "50 毫米穿甲弹"}
+		{"bullet50 apcr" "50 毫米硬芯穿甲弹"}
+		{"bullet50 fg" "50 毫米高爆弹"}
+		{"bullet57 ap" "57 毫米穿甲弹"}
+		{"bullet57 apcr" "57 毫米硬芯穿甲弹"}
+		{"bullet57 fg" "57 毫米高爆弹"}
+		{"bullet75 ap" "75 毫米穿甲弹"}
+		{"bullet75 apcr" "75 毫米硬芯穿甲弹"}
+		{"bullet75 fg" "75 毫米高爆弹"}
+		{"bullet76 ap" "76 毫米穿甲弹"}
+		{"bullet76 apcr" "76 毫米硬芯穿甲弹"}
+		{"bullet76 fg" "76 毫米高爆弹"}
+		{"bullet77 ap" "77 毫米穿甲弹"}
+		{"bullet77 apcr" "77 毫米硬芯穿甲弹"}
+		{"bullet77 fg" "77 毫米高爆弹"}
+		{"bullet85 ap" "85 毫米穿甲弹"}
+		{"bullet85 apcr" "85 毫米硬芯穿甲弹"}
+		{"bullet85 fg" "85 毫米高爆弹"}
+		{"bullet89 ap" "87.6 毫米穿甲弹"}
+		{"bullet89 apcr" "87.6 毫米硬芯穿甲弹"}
+		{"bullet89 fg" "87.6 毫米高爆弹"}
+		{"bullet88 ap" "88 毫米穿甲弹"}
+		{"bullet88 apcr" "88 毫米硬芯穿甲弹"}
+		{"bullet88 fg" "88 毫米高爆弹"}
+		{"bullet90 ap" "90 毫米穿甲弹"}
+		{"bullet90 apcr" "90 毫米硬芯穿甲弹"}
+		{"bullet90 fg" "90 毫米高爆弹"}
+		{"bullet93 ap" "93 毫米穿甲弹"}
+		{"bullet93 apcr" "93 毫米硬芯穿甲弹"}
+		{"bullet93 fg" "93 毫米高爆弹"}
+		{"bullet95 ap" "95 毫米穿甲弹"}
+		{"bullet95 apcr" "95 毫米硬芯穿甲弹"}
+		{"bullet95 fg" "95 毫米高爆弹"}
+		{"bullet100 ap" "100 毫米穿甲弹"}
+		{"bullet100 apcr" "100 毫米硬芯穿甲弹"}
+		{"bullet100 fg" "100 毫米高爆弹"}
+		{"bullet105 ap" "105 毫米穿甲弹"}
+		{"bullet105 apcr" "105 毫米硬芯穿甲弹"}
+		{"bullet105 fg" "105 毫米高爆弹"}
+		{"bullet105 sm" "105 毫米烟雾弹"}
+		{"bullet120 ap" "120 毫米穿甲弹"}
+		{"bullet120 apcr" "120 毫米硬芯穿甲弹"}
+		{"bullet120 fg" "120 毫米高爆弹"}
+		{"bullet122 ap" "122 毫米穿甲弹"}
+		{"bullet122 apcr" "122 毫米硬芯穿甲弹"}
+		{"bullet122 fg" "122 毫米高爆弹"}
+		{"bullet122 sm" "122 毫米烟雾弹"}
+		{"bullet128 ap" "128 毫米穿甲弹"}
+		{"bullet128 apcr" "128 毫米硬芯穿甲弹"}
+		{"bullet128 fg" "128 毫米高爆弹"}
+		{"bullet150 ap" "150 毫米穿甲弹"}
+		{"bullet150 fg" "150 毫米高爆弹"}
+		{"bullet150 sm" "150 毫米烟雾弹"}
+		{"bullet152 ap" "152 毫米穿甲弹"}
+		{"bullet152 fg" "152 毫米高爆弹"}
+		{"bullet152 sm" "152 毫米烟雾弹"}
+		{"bullet155 fg" "155 毫米高爆弹"}
+		{"bullet155 sm" "155 毫米烟雾弹"}
+		{"bullet203" "203 毫米高爆弹"}
+		{"bullet290" "290 毫米高爆弹"}
+		{"bullet305" "305 毫米炮弹"}
+		{"20cm_rocket" "四式 200 毫米火箭炮"}
+		{"30cm_rocket" "四式 300 毫米火箭炮"}
+		{"air_bomb" "炸弹"}
+		{"air_bomb_il2" "炸弹"}
+		{"air_bomb stuff" "炸弹"}
+		{"bazooka" "巴祖卡反坦克火箭弹"}
+		{"bm8" "82 毫米 BM-8 火箭弹"}
+		{"calliope" "114 毫米 M8 型火箭弹"}
+		{"flaergun ammo" "火炮信号弹"}
+		{"goliath" "爆炸装置"}
+		{"hmgun" "重机枪弹药"}
+		{"katusha" "132 毫米 BM-13 火箭弹"}
+		{"lm_ammo" "76 毫米 RP-3 火箭弹"}
+		{"m18recoilless" "M18 无后坐力炮弹"}
+		{"mgun" "机枪弹药"}
+		{"mortar fg" "迫击炮弹"}
+		{"mortar150 fg" "重型迫击炮弹"}
+		{"mortar sm" "烟雾迫击炮弹"}
+		{"nebel41" "150 毫米 41 年式喷烟者火箭弹"}
+		{"nebel42" "210 毫米 42 年式喷烟者火箭弹"}
+		{"panzerfaust" "100 型“铁拳”反坦克火箭弹"}
+		{"panzerfaust60" "60 型“铁拳”反坦克火箭弹"}
+		{"panzershreck" "“坦克杀手”反坦克火箭弹"}
+		{"panzerwerfer42" "150 毫米喷烟者"}
+		{"piatrocket" "步兵用反坦克发射器弹药"}
+		{"ptr" "反坦克步枪弹"}
+		{"rifle" "步枪弹药"}
+		{"rifle_grenade" "枪榴弹"}
+		{"rifle_grenade_at" "反坦克枪榴弹"}
+		{"searchlight" ""}
+		{"shotgun" "霰弹枪弹药"}
+		{"smg" "冲锋枪弹药"}
+		{"sturmtiger" "380 毫米突击虎火箭弹"}
+		{"swg41" "28 厘米 41 年式喷烟者火箭弹"}
+		{"tulip" "76 毫米郁金香火箭弹"}
+		{"torpedo" "鱼雷"}
+		{"type_4" "四式反坦克火箭弹"}
+		{"bullet600" "600 毫米高爆弹"}
+		{"bullet20 ap" "20 毫米穿甲弹"}
+		{"bullet20 fg" "20 毫米高爆弹"}
+		{"flaermow ammo" "信号枪弹"}
+	}
+	{"weapon"
+		{"type"
+			{"secondary_flamer" "<f(arial_hq)><c(20a601)>喷火器</c>"}
+			{"secondary_rockets" "<f(arial_hq)><c(20a601)>火箭弹</c>"}
+			{"secondary_main" "<f(arial_hq)><c(20a601)>副武器</c>"}
+			{"mgun_main" "<f(arial_hq)><c(20a601)>主武器</c>"}
+			{"mgun_aa" "<f(arial_hq)><c(20a601)>高射炮</c>"}
+			{"mgun_coaxial" "<f(arial_hq)><c(20a601)>同轴机枪</c>"}
+			{"mgun_hull" "<f(arial_hq)><c(20a601)>车身机枪</c>"}
+			{"mgun_rear" "<f(arial_hq)><c(20a601)>后侧机枪</c>"}
+			{"mgun_right" "<f(arial_hq)><c(20a601)>右侧机枪</c>"}
+			{"mgun_left" "<f(arial_hq)><c(20a601)>左侧机枪</c>"}
+		}
+		{"20mm_flak38" "20 毫米 38 型高射炮"}
+		{"20mm_flak38_x4" "20 毫米 38 型高射炮"}
+		{"20mm_kwk30" "20 毫米 KwK 30 坦克炮"}
+		{"20mm_kwk38(l55)" "20 毫米 KwK 38 L/55 坦克炮"}
+		{"20mm_mg151" "20 毫米 MG 151 机炮"}
+		{"20mm_mk10" "20 毫米厄利孔机炮 Mk.10"}
+		{"20mm_oerlikon" "20 毫米厄利孔机炮"}
+		{"20mm_oerlikon_x2" "20 毫米厄利孔机炮"}
+		{"20mm_tns" "20 毫米坦沙机炮"}
+		{"20mm_type2" "二式 20 毫米高射炮"}
+		{"28mm_spzb41" "28 毫米 sPzB 41 反坦克步枪"}
+		{"37mm_61-k" "37 毫米 61K 高射炮"}
+		{"37mm_m3" "37毫米 M3 反坦克炮"}
+		{"37mm_m6" "37毫米 M6 反坦克炮"}
+		{"37mm_pak36" "37 毫米 PaK 36 反坦克炮"}
+		{"37mm_type38" "三八式 37 毫米火炮"}
+		{"37mm_flak36" "37 毫米 36 型高射炮"}
+		{"37mm_flak43" "37 毫米 43 型高射炮"}
+		{"40mm_bofors" "博福斯 40 毫米 M1 高射炮 L/60 型"}
+		{"40mm_m19" "40 毫米 M19 自行高炮"}
+		{"40mm_oqf2pdr" "40 毫米 QF 2 磅炮"}
+		{"45mm_20k" "45 毫米 20K 反坦克炮"}
+		{"45mm_oqf2pdr" "45 毫米 QF 2 磅炮"}
+		{"47mm_40" "百禄 47 毫米 L40 反坦克炮"}
+		{"47mm_type1" "一式 47 毫米反坦克炮"}
+		{"50mm_kwk38" "50 毫米 KwK 38 坦克炮"}
+		{"50mm_kwk39" "50 毫米 KwK 39 坦克炮"}
+		{"50mm_pak38" "50 毫米 PaK 38 反坦克炮"}
+		{"57mm_type1" "一式 50 毫米反坦克炮"}
+		{"57mm_type2" "二式 57 毫米高射炮"}
+		{"57mm_type97" "九七式 57 毫米反坦克炮"}
+		{"57mm_oqf" "57 毫米 QF 6 磅炮"}
+		{"57mm_zis2" "57 毫米 ZIS-2 反坦克炮"}
+		{"57mm_zis4" "57 毫米 ZIS-4 反坦克炮"}
+		{"75mm_k51(l24)" "75 毫米 K 51 L/24 坦克炮"}
+		{"75mm_kwk37" "75 毫米 KwK 37 坦克炮"}
+		{"75mm_kwk40" "75 毫米 KwK 40 坦克炮"}
+		{"75mm_kwk40(l46)" "75 毫米 KwK 40 L/46 坦克炮"}
+		{"75mm_kwk40(l48)" "75 毫米 KwK 40 L/48 坦克炮"}
+		{"75mm_kwk42" "75 毫米 KwK 42 坦克炮"}
+		{"75mm_m2" "75 毫米 M2 坦克炮"}
+		{"75mm_m2a" "75 毫米 M2 坦克炮"}
+		{"75mm_m3" "75 毫米 M3 坦克炮"}
+		{"75mm_m6" "75 毫米 M6 坦克炮"}
+		{"75mm_mk5" "75 毫米 QF Mk.V 坦克炮"}
+		{"75mm_pak39" "75 毫米 PaK 39 反坦克炮"}
+		{"75mm_pak40" "75 毫米 PaK 40 反坦克炮"}
+		{"75mm_stuk40" "75 毫米 Stuk 40 反坦克炮"}
+		{"75mm_stuk42" "75 毫米 Stuk 42 反坦克炮"}
+		{"75mm_type3" "三式 75 毫米坦克炮"}
+		{"75mm_type5" "五式 75 毫米坦克炮"}
+		{"75mm_type90" "九零式 75 毫米野战炮"}
+		{"75mm_type99" "九九式 75 毫米坦克炮"}
+		{"75mm_lg40" "75 毫米 LG40 坦克炮"}
+		{"76mm_f32" "76 毫米 F32 坦克炮"}
+		{"76mm_f34" "76 毫米 F34 坦克炮"}
+		{"76mm_kt26" "76 毫米 KT-26 坦克炮"}
+		{"76mm_l11" "76 毫米 L11 坦克炮"}
+		{"76mm_m1a2" "76 毫米 M1A2 坦克炮"}
+		{"76mm_m5" "76 毫米 M5 坦克炮"}
+		{"76mm_m7" "76 毫米 M7 坦克炮"}
+		{"76mm_mk4" "76 毫米 QF Mk.IV 坦克炮"}
+		{"76mm_zis3" "76 毫米 ZIS-3 加农炮"}
+		{"76mm_zis5" "76 毫米 ZIS-5 坦克炮"}
+		{"77mm_hv" "77 毫米 HV 坦克炮"}
+		{"85mm_d5s" "85 毫米 D5-S 坦克炮"}
+		{"85mm_d5t" "85 毫米 D5-T 坦克炮"}
+		{"85mm_zis53" "85 毫米 ZIS-53 坦克炮"}
+		{"88mm_flak18" "88 毫米 18 型高射炮"}
+		{"88mm_flak37" "88 毫米 37 型高射炮"}
+		{"88mm_flak41" "88 毫米 41 型高射炮"}
+		{"88mm_kwk36" "88 毫米 KwK 36 坦克炮"}
+		{"88mm_kwk36_veteran" "88 毫米 KwK 36 坦克炮"}
+		{"88mm_kwk43" "88 毫米 KwK 43 坦克炮"}
+		{"88mm_oqfmk2" "88 毫米 QF Mk.II 坦克炮"}
+		{"88mm_pak43" "88 毫米 PaK 43 反坦克炮"}
+		{"88mm_type99" "九九式 88 毫米高射炮"}
+		{"90mm_m3" "90 毫米 M3 反坦克炮"}
+		{"90mm_m15" "90 毫米 M15 反坦克炮"}
+		{"93mm_vickers" "93 毫米 QF 32 磅炮"}
+		{"93mm_vickers_aa" "93 毫米 QF 32 磅炮"}
+		{"95mm_oqf" "95 毫米 QF 榴弹炮"}
+		{"100mm_d10c" "100 毫米 D10S 坦克炮"}
+		{"105mm_l31" "105 毫米 L31 榴弹炮"}
+		{"105mm_m2a1" "105 毫米 M2A1 榴弹炮"}
+		{"105mm_m4a3" "105 毫米 M4 榴弹炮"}
+		{"105mm_stuh42" "105 毫米 StuH 42 自行突击炮"}
+		{"105mm_type6" "六式 105 毫米炮"}
+		{"105mm_type91" "九一式 10 厘米榴弹炮"}
+		{"120mm_l50" "120 毫米 L/50 火炮"}
+		{"120mm_type97" "九七式 120 毫米坦克炮"}
+		{"122mm_a19s" "122 毫米 A19s 野战炮"}
+		{"122mm_d25" "122 毫米 D25 野战炮"}
+		{"122mm_m30" "122 毫米 M30 榴弹炮"}
+		{"122mm_m30s" "122 毫米 M-30s 榴弹炮"}
+		{"128mm_pak44" "128 毫米 PaK 44 反坦克炮"}
+		{"150mm_sfh18" "150 毫米 sFH 18 式榴弹炮"}
+		{"150mm_sfh18a" "150 毫米 sFH 18 式榴弹炮"}
+		{"150mm_sig33" "150 毫米 sIG 33 步兵炮"}
+		{"150mm_sig33_how" "150 毫米 sIG 33 步兵炮"}
+		{"150mm_type38" "三八式 150 毫米榴弹炮"}
+		{"150mm_type96" "九六式 150 毫米炮"}
+		{"152mm_bl6" "152 毫米 BL 26cwt 榴弹炮"}
+		{"152mm_d1" "152 毫米 D1 榴弹炮"}
+		{"152mm_m10t" "152 毫米 ML20 榴弹炮"}
+		{"152mm_ml20a" "152 毫米 ML20 榴弹炮"}
+		{"155mm_gpf" "155 毫米榴弹炮"}
+		{"155mm_m12" "155 毫米 M12 自行火炮"}
+		{"203mm_gun" "203 毫米迫击炮"}
+		{"290mm_mortar" "290 毫米超口径迫击炮"}
+		{"380mm_rw61" "380 毫米 RW61 迫击炮"}
+		{"arl" "导弹"}
+		{"bar" "勃朗宁自动步枪"}
+		{"bazooka" "M1A1 巴祖卡火箭筒"}
+		{"besa" "贝莎机枪"}
+		{"binocular" "望远镜"}
+		{"bm8" "82 毫米 BM-8 火箭炮"}
+		{"bren" "布伦式轻机枪"}
+		{"browning" ".50 口径 M2HB 勃朗宁重机枪"}
+		{"browning_m19" ".30 口径 M1919 勃朗宁重机枪"}
+		{"browning_m19a6" ".30 口径 M1919 A6 勃朗宁轻机枪"}
+		{"browning_x2" "双联装 .50 口径勃朗宁机枪"}
+		{"browning_x4" "四联装 .50 口径勃朗宁机枪"}
+		{"bomb_dropper" "炸弹"}
+		{"bomb_dropper_il2" "炸弹"}
+		{"boyes" ".55 口径博伊斯 Mk.I 反坦克步枪"}
+		{"browning_stan" "重机枪"}
+		{"calliope" "114 毫米 M8 型火箭炮"}
+		{"colt" "柯尔特 45"}
+		{"degtyarev_stan" "重机枪"}
+		{"de_lisle" "德利尔卡宾枪"}
+		{"doublebazooka" "双联巴祖卡"}
+		{"dp" "DP-27 轻机枪"}
+		{"ds" "DS-39 中型机枪"}
+		{"dshk" "DShK 重机枪"}
+		{"dt" "DT-29 机枪"}
+		{"em2" "EM 2 狙击步枪"}
+		{"em3" "李-恩菲尔德 Mk.III 步枪"}
+		{"em3_mark1" "EM-3 枪榴弹"}
+		{"fg42" "FG-42 伞兵机枪"}
+		{"flaergun" "火炮信号枪"}
+		{"flame_thrower" "火焰喷射器"}
+		{"flame_thrower_g" "火焰喷射器"}
+		{"flame_thrower_ssd" "坦克火焰喷射器"}
+		{"flame_thrower_tank" "坦克火焰喷射器"}
+		{"g41" "毛瑟 Kar98k 狙击步枪"}
+		{"g41b" "格韦尔 41 步枪"}
+		{"g43" "格韦尔 43 步枪"}
+		{"g43_scope" "格韦尔 43 步枪（瞄准镜）"}
+		{"garand" "M1 加兰德步枪"}
+		{"goliath" "遥控炸弹"}
+		{"hdm" "OSS 高标无声手枪"}
+		{"johnson" "M1941 式约翰逊半自动步枪"}
+		{"johnson_m1941" "M1941 式约翰逊轻机枪"}
+		{"katusha" "132 毫米 BM-13 火箭炮"}
+		{"lewis_gun" "刘易斯机枪"}
+		{"lm" "76 毫米 RP-3 火箭炮"}
+		{"luger" "鲁格手枪"}
+		{"m18recoilless" "M18 无后坐力炮"}
+		{"m1903" "M1903 春田步枪"}
+		{"m1903a4" "M1903A4 春田狙击步枪"}
+		{"m1_carbine" "M1A1 卡宾枪"}
+		{"m12_shotgun" "M12 霰弹枪"}
+		{"m2_carbine" "M2 卡宾枪"}
+		{"m3a" "M3A1 冲锋枪"}
+		{"m50reising" "M50 莱辛式冲锋枪"}
+		{"mauzer" "毛瑟 Kar98k 步枪"}
+		{"maxim" "马克沁机枪"}
+		{"maxim_inv" "马克沁机枪"}
+		{"mg34" "MG 34 通用机枪"}
+		{"mg34_tower" "MG 34 通用机枪"}
+		{"mg34_x2" "双联 MG 34 通用机枪"}
+		{"mg37" "MG 37(t) 机枪"}
+		{"mg42" "MG 42 通用机枪"}
+		{"mg42_120" "MG 42 通用机枪"}
+		{"mguncolt" "柯尔特机枪"}
+		{"mortar150" "九七式 150 毫米迫击炮"}
+		{"mosin" "莫辛步枪"}
+		{"mosin_s" "莫辛狙击步枪"}
+		{"mp28" "MP 28 冲锋枪"}
+		{"mp28_50" "MP 28 冲锋枪"}
+		{"mp3008" "MP 3008 冲锋枪"}
+		{"mp40" "MP 40 冲锋枪"}
+		{"mp41" "MP 41 冲锋枪"}
+		{"nagan" "纳甘步枪"}
+		{"nagan_pb" "纳甘步枪（消音器）"}
+		{"nambu" "一四年式南部手枪"}
+		{"nebel41" "150 毫米 41 年式喷烟者"}
+		{"nebel42" "210 毫米 42 年式喷烟者"}
+		{"owen_gun" "欧文冲锋枪"}
+		{"panzerfaust" "100 型“铁拳”火箭筒"}
+		{"panzerfaust60" "60 型“铁拳”火箭筒"}
+		{"panzershreck" "“坦克杀手”火箭筒"}
+		{"panzerwerfer42" "喷烟者 150 毫米火箭炮"}
+		{"piatrocket" "PIAT Mk.1 反坦克发射器"}
+		{"ptrd" "14.5 毫米 PTRD 反坦克步枪"}
+		{"ptrs" "14.5 毫米 PTRS 反坦克步枪"}
+		{"pps43" "PPS-43 冲锋枪"}
+		{"ppsh" "波波沙"}
+		{"ppsh41" "波波沙 41 冲锋枪"}
+		{"pzb39" "Pzb39 反坦克步枪"}
+		{"searchlight" "探照灯"}
+		{"sg44" "StG 44 突击步枪"}
+		{"sg44b" "StG 44 步枪（瞄准镜）"}
+		{"sten" "Mk.III 斯登冲锋枪"}
+		{"sten_v" "Mk.V 斯登冲锋枪"}
+		{"sten_v_silencer" "Mk.VI 斯登冲锋枪（消音器）"}
+		{"sks" "SKS 半自动步枪"}
+		{"svt40" "SVT-40 半自动步枪"}
+		{"swg41" "280 毫米 41 式重型火箭炮"}
+		{"t4_20cm" "四式 200 毫米火箭炮"}
+		{"t4_30cm" "四式 300 毫米火箭炮"}
+		{"t94" "九四式迫击炮"}
+		{"thompson" "汤姆逊冲锋枪"}
+		{"thompson_30" "汤姆逊 30"}
+		{"thompson_m1928" "汤姆逊 M1928"}
+		{"torpedo" "鱼雷发射器"}
+		{"tt" "TT 手枪"}
+		{"tulip" "93 毫米郁金香火箭炮"}
+		{"type100smg" "百式冲锋枪"}
+		{"type1hmg" "一式重机枪"}
+		{"type2rifle" "二式步枪"}
+		{"type2smg" "二式冲锋枪"}
+		{"type2_120mm" "二式 120 毫米炮"}
+		{"type4_200mm" "四式 200 毫米火箭炮"}
+		{"type99lmg" "九九式轻机枪"}
+		{"type99rifle" "九九式步枪"}
+		{"type99rifle_s" "九九式狙击步枪"}
+		{"type99rifle_at" "九九式反坦克枪榴弹"}
+		{"type_4at" "四式火箭筒"}
+		{"type_96" "九六式 25 毫米炮"}
+		{"type_97_antitank" "九七式反坦克步枪"}
+		{"valter" "瓦尔特手枪"}
+		{"vickers_k" "维克斯机枪（VGO）"}
+		{"vickers_mgun" "维克斯"}
+		{"webley" "韦伯利手枪（.45 口径）"}
+		{"welrod" "威尔洛德微声手枪"}
+		{"werfer" "迫击炮"}
+		{"werfer42" "迫击炮"}
+		{"wurfrahmen40" "280 毫米 Wurfrahmen 40 多管火箭炮"}
+		{"600mm_gun" "600 毫米卡尔臼炮"}
+		{"305mm_gun" "305 毫米"}
+		{"flaermow" "信号枪"}
+		{"uber_browning" ".50 口径 M2HB 勃朗宁重机枪"}
+		{"hk416" "HK416 突击步枪"}
+		{"m4a1_v3" "M4A1 突击步枪"}
+		{"m39_emr" "M39EMR 精确射手步枪"}
+		{"m240l_v1" "M240 轻机枪"}
+	}
+	{"container"
+		{"box" "箱子"}
+		{"small_box" "箱子"}
+	}
+	{"stuff"
+		{"37mm_m5" "M5 反坦克炮（37 毫米）"}
+		{"37mm_hori" "三八式 37 毫米火炮"}
+		{"antitank mine" "反坦克地雷"}
+		{"antipersonnel mine" "反步兵地雷"}
+		{"axe" "斧头"}
+		{"b33r" "啤酒瓶箱"}
+		{"balloon" "燃油箱"}
+		{"balloon_g" "燃油箱"}
+		{"bandage" "绷带"}
+		{"barbwire_kit" "铁丝网"}
+		{"barrel" "枪管"}
+		{"beret_commando" "贝雷帽"}
+		{"beret_eng" "贝雷帽"}
+		{"beret_eng1" "贝雷帽"}
+		{"beret_eng2" "贝雷帽"}
+		{"beret_sas" "贝雷帽"}
+		{"body_armor" "防弹衣"}
+		{"browning_stan" "配有勃朗宁"}
+		{"can" "罐头"}
+		{"cap_eng" "野战帽"}
+		{"cap1_ger" "军官帽"}
+		{"cap1_rus" "野战帽"}
+		{"cap1_jap" "军官帽"}
+		{"cap1_usa" "军官帽"}
+		{"cap2_ger" "军官帽"}
+		{"cap2_rus" "野战帽"}
+		{"cap3_rus" "军官帽"}
+		{"cap_eng_afr" "军官帽"}
+		{"cap_jap_off" "野战帽"}
+		{"cap_officer_eng" "军官帽"}
+		{"chicken" "鸡"}
+		{"commando-cap1" "贝雷帽"}
+		{"cook_cap" "帽子"}
+		{"cord_wood" "一段木材"}
+		{"crow_bar" "撬棍"}
+		{"drug" "药品"}
+		{"dynamite" "炸药"}
+		{"dynamite_ladung" "炸药量 3 千克"}
+		{"elf_cap" "帽子"}
+		{"f1" "F1 反步兵手雷"}
+		{"fau_detail" "火箭筒部件"}
+		{"fieldcap1_ger" "野战帽"}
+		{"fieldcap1_jap" "野战帽"}
+		{"fieldcap1_rus" "野战帽"}
+		{"fieldcap2_ger" "野战帽"}
+		{"fieldcap3_ger" "野战帽"}
+		{"fieldcap_eng" "野战帽"}
+		{"fieldcap_ger" "野战帽"}
+		{"fieldcap_ger_tankmen" "野战帽"}
+		{"fieldcap_jap" "野战帽"}
+		{"fieldcap_rus" "野战帽"}
+		{"field_bag" "战地背包"}
+		{"filling_empty" "空"}
+		{"flag" "旗帜"}
+		{"hedgehog_kit" "反坦克拒马"}
+		{"helmet1_ger" "头盔"}
+		{"helmet1_eng" "头盔"}
+		{"helmet1_eng_w" "头盔"}
+		{"helmet1_jap" "头盔"}
+		{"helmet1_jap_w" "头盔"}
+		{"helmet1_rus" "头盔"}
+		{"helmet1_rus_w" "头盔"}
+		{"helmet1_usa" "头盔"}
+		{"helmet2_eng" "头盔"}
+		{"helmet2_eng_w" "头盔"}
+		{"helmet2_ger" "头盔"}
+		{"helmet2_rus" "头盔"}
+		{"helmet2_usa" "头盔"}
+		{"helmet2_jap" "头盔"}
+		{"helmet3_ger" "头盔"}
+		{"helmet3_jap" "头盔"}
+		{"helmet4_ger" "头盔"}
+		{"helmet4_usa" "头盔"}
+		{"helmet5_ger" "头盔"}
+		{"helmet6_ger" "头盔"}
+		{"helmet_airborne_usa" "头盔"}
+		{"helmet_jap" "头盔"}
+		{"helmet_marine_usa" "头盔"}
+		{"helmet_novice" "头盔"}
+		{"helmet_paratrooper" "头盔"}
+		{"helmet_usa_w" "头盔"}
+		{"human" "躯体"}
+		{"kamikaze_bomb" "炸药"}
+		{"knife" "刀"}
+		{"knife_ger" "刀"}
+		{"knife_japan" "刀"}
+		{"knife_rus" "刀"}
+		{"knife_union" "刀"}
+		{"liquid" "液体"}
+		{"m24" "M24 反步兵手雷"}
+		{"m24x5" "5 枚 M24 反步兵手雷"}
+		{"m39" "M39 反步兵手雷"}
+		{"m61" "M61 反步兵手雷"}
+		{"matchbox" "火柴盒"}
+		{"medkit" "医疗包"}
+		{"mine antipersonnel" "反步兵地雷"}
+		{"mine antitank" "反坦克地雷"}
+		{"mine_antitank_jap" "反坦克高爆地雷"}
+		{"mine_detector" "地雷探测器"}
+		{"mk1" "Mk I 反步兵手雷"}
+		{"molotov_coctail" "燃烧剂"}
+		{"morphine" "吗啡"}
+		{"n73at" "N73 反坦克手雷"}
+		{"petrol" "燃料"}
+		{"plant" "伪装工具包"}
+		{"pwm1" "PWM-1 反坦克手雷"}
+		{"radioman_hat" "无线电通讯员帽"}
+		{"repair_kit" "修理工具包"}
+		{"rg42x3" "3 枚 RGD33 反坦克手雷"}
+		{"rpg40" "RPG-40 反坦克手雷"}
+		{"rpg43" "RPG-43 反坦克手雷"}
+		{"rw_cap" "油罐盖"}
+		{"sandbag_kit" "铁铲和袋子"}
+		{"sandbag_kit2" "铁铲和袋子"}
+		{"satchel" "炸药包"}
+		{"santa_cap" "帽子"}
+		{"smoke" "烟雾弹"}
+		{"smoke_paradrop_ammo" "信号 - 空投弹药"}
+		{"smoke_paradrop_ammo_heavy" "信号 - 空投重型弹药"}
+		{"steak" "牛排"}
+		{"tankhelmet_jap" "坦克头盔"}
+		{"tankhelmet_rus" "坦克头盔"}
+		{"tankhelmet_usa" "坦克头盔"}
+		{"tank_balloon" "燃油箱"}
+		{"tank_cap1_ger" "油罐盖"}
+		{"tank_cap2_ger" "油罐盖"}
+		{"type3at" "手雷"}
+		{"type3at_a" "三式反坦克手雷"}
+		{"type97" "九七式反步兵手雷"}
+		{"type99" "九九式反步兵手雷"}
+		{"type99at" "九九式反坦克手雷"}
+		{"usmc-cap1" "野战帽"}
+		{"warden_furcap" "野战帽"}
+		{"water" "水"}
+		{"winterhat" "野战帽"}
+		{"dynamite_clockwork" "炸药"}
+		{"wirecutters" "剪钳"}
+		{"rad" "怪异箱子"}
+		{"spade_inv" "铁铲"}
+	}
+}

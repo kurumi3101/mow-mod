@@ -1,0 +1,11 @@
+{from "pattern mgun"
+	{tag "mgun_light shoot_walking shoot_walking_ai"}
+	{filling "ammo mgun" 100}
+	{entity "m240_l"}
+	{fireSound	"mgun/m240/"}
+	{reloadSound "mgun/"}
+
+	("recoveryTime" r(650))
+	("burst_long")
+	("speed" s(853))
+}

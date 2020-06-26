@@ -1,0 +1,8 @@
+{material bump
+	{diffuse "$/inventory/weapon/m240_ammo_tape"}
+	{bump "$/inventory/weapon/m240_ammo_tape_bp"}
+	{specular "$/inventory/weapon/m240_ammo_tape_sp"}
+	{color "255 255 255 25"}
+	{blend none}
+	{emitsheat}
+}

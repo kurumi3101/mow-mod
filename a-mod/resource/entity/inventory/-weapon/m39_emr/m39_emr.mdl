@@ -1,0 +1,159 @@
+;Exported by: Art
+;Date:        Fri Mar 15 10:27:33 2019
+;File:        E:\Autodesk\Low poly\freelance\DMS 2.0\Weapon 2.0\M39 EMR\export\M39 emr.max
+{Skeleton
+	{animation
+		{sequence "recoil" {speed 0.8}}
+	}
+	{bone "m39emr"
+		{parameters "ID=mgun;"}
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{LODView
+			{VolumeView "m39emr.ply"}
+			{VolumeView "m39emr_lod1.ply"}
+			{VolumeView "m39emr_lod2.ply"}
+			{VolumeView "m39emr_lod3.ply"}
+		}
+
+		{bone "sight"
+			{Matrix34
+				1	0	0
+				0	0	-1
+				0	1	0
+				3.86868	2.81727	0.11416
+			}
+			{LODView
+				{VolumeView "sight.ply"}
+				{VolumeView "sight_lod1.ply"}
+				{VolumeView "sight_lod2.ply"}
+				{VolumeView "sight_lod3.ply"}
+			}
+			{bone "glass"
+				{Position 0	0.11435	-0.0644026}
+				{VolumeView "glass.ply"}
+			}
+		}
+		{bone "magazine"
+			{Matrix34
+				1	0	0
+				0	0	-1
+				0	1	0
+				3.82133	-0.401108	-0.00195185
+			}
+			{LODView
+				{VolumeView "magazine.ply"}
+				{VolumeView "magazine_lod1.ply"}
+				{VolumeView "magazine_lod2.ply"}
+				{VolumeView "magazine_lod3.ply"}
+			}
+		}
+		{bone "shutter"
+			{Matrix34
+				1	0	0
+				0	0	-1
+				0	1	0
+				4.30071	1.58332	0.0211228
+			}
+			{LODView
+				{VolumeView "shutter.ply"}
+				{VolumeView "shutter_lod1.ply"}
+				{VolumeView "shutter_lod2.ply"}
+				{VolumeView "shutter_lod3.ply"}
+			}
+		}
+		{bone "foresight3"
+			{Position 16.6669	1.46676	0.00525065}
+		}
+		{bone "fxshell"
+			{Matrix34
+				0	-0.978149	0.207906
+				-1	0	0
+				0	-0.207906	-0.978149
+				3.42405	1.53633	0.209147
+			}
+		}
+		{bone "handle"
+			{Matrix34
+				1	0	0
+				0	0	-1
+				0	1	0
+				2.57804	1.80026	-0.00340306
+			}
+		}
+	}
+}
+{Volume "body"
+	{Box 20.7591 4.3146 1.18138}
+	{Bone "m39emr"}
+	{Matrix34
+		0.999657	0.0261768	0
+		-0.0261768	0.999657	0
+		0	0	1
+		5.92066	0.151534	0.0704777
+	}
+}
+{Volume "magazine"
+	{Polyhedron "magazine.vol"}
+	{Bone "magazine"}
+	{Matrix34
+		0.990268	0	0.139173
+		0	1	0
+		-0.139173	0	0.990268
+		-0.120266	0	-0.665729
+	}
+}
+{Volume "select"
+	{Box 22.7819 9.11718 2.39379}
+	{Bone "m39emr"}
+	{Position 6.11182	0.625354	0.00202572}
+}
+{Extender "preview"
+	{"Stuff_primary"
+		{camera
+			{origin 6.04324	-1.23074	51.352}
+			{lookat 6.04324	-0.109546	0.0174841}
+			{fov 23.9132}
+			{horizon -174.325}
+		}
+		{lights
+			{"0"
+				{type point}
+				{position 2.82093	9.50825	2.74103}
+			}
+			{"1"
+				{type point}
+				{position 11.95	-7.88728	20.2469}
+			}
+			{"2"
+				{type directional}
+				{direction 0.000725076	0.410639	-0.285263}
+			}
+		}
+	}
+	{"Stuff"
+		{camera
+			{origin 5.90115	-2.25121	50.9376}
+			{lookat 5.90115	0.148036	0.0290636}
+			{fov 23.9132}
+			{horizon -172.326}
+		}
+		{lights
+			{"0"
+				{type point}
+				{position 13.7916	-10.4029	18.2801}
+			}
+			{"1"
+				{type directional}
+				{direction -0.00294095	0.418475	-0.273625}
+			}
+			{"2"
+				{type point}
+				{position 2.82093	2.99878	1.85589}
+			}
+		}
+	}
+}

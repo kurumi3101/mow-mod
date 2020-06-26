@@ -1,0 +1,5 @@
+{material envmap
+	{diffuse "$/inventory/weapon/m107a1_sight_glass_front"}
+	{mask "$/inventory/weapon/m107a1_sight_glass_front_sp"}
+	{blend blend}
+}

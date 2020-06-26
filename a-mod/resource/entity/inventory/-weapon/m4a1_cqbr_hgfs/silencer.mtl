@@ -1,0 +1,9 @@
+{material bump
+	{diffuse "$/inventory/weapon/suppressor_m4"}
+	{bump "$/inventory/weapon/suppressor_m4_bp"}
+	{specular "$/inventory/weapon/suppressor_m4_sp"}
+	{color "255 255 255 25"}
+	{blend none}
+	{specular_intensity 2.5}
+	{emitsheat}
+}

@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "body_c1"}
+	{blend none}
+}

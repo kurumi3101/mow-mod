@@ -1,0 +1,13 @@
+{from "pattern rifle"
+	{tag "autorifle shoot_walking shoot_walking_ai"}
+	{filling "ammo rifle" 20}
+	{entity "m39_emr"}
+	{fireSound	"rifle/m39/"}
+	{reloadSound "smg/m16/"}
+	
+	{Automatic}
+	{healthDamage 160}
+	{recoveryTime 0.4}
+	("accuracy_rifle")
+	("speed" s(853))
+}

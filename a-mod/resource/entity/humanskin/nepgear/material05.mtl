@@ -1,0 +1,4 @@
+{material simple
+	{diffuse "hair_c1"}
+	{blend none}
+}

@@ -1,0 +1,9 @@
+{material bump
+	{diffuse "$/inventory/weapon/hand_grip"}
+	{bump "$/inventory/weapon/hand_grip_bp"}
+	{specular "$/inventory/weapon/hand_grip_sp"}
+	{color "255 255 255 25"}
+	{blend none}
+	{specular_intensity 2.5}
+	{emitsheat}
+}

@@ -1,0 +1,6 @@
+{material bump
+	{diffuse "$/inventory/weapon/holo_aim"}
+	{glow} 
+	{blend blend}
+	{nolight}
+}
