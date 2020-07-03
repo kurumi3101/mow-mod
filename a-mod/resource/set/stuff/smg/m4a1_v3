@@ -1,11 +1,11 @@
 {from "pattern smg"
 	{tag "assaultrifle shoot_walking shoot_walking_ai"}
 	{filling "ammo pistol" 30}
-	{entity "m4a1_hg"}
-	{fireSound	"smg/m4/"}
+	{entity "m4a1_hgs"}
+	{fireSound	"smg/silenced_m4/"}
 	{reloadSound "smg/m16/"}
 
-	{range 60 65}
+	{range 65 70}
 	{healthDamage 150}
 	("recoveryTime" r(700))
 	("burst_short")

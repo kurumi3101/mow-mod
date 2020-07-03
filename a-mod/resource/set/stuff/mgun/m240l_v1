@@ -6,6 +6,6 @@
 	{reloadSound "mgun/"}
 
 	("recoveryTime" r(650))
-	("burst_long")
+	("burst_medium")
 	("speed" s(853))
 }

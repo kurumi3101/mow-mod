@@ -6,13 +6,13 @@
 	{icon_priority 4}
 
 	{perks
-		{"health" "350%"
+		{"health" "500%"
 		}
-		{"health_regeneration" "100%"
+		{"health_regeneration" "200%"
 		}
 		{"stamina" "200%"
 		}
-		{"stamina_regeneration" "100%"
+		{"stamina_regeneration" "200%"
 		}
 		{"vision" "mp_soldier"
 		}

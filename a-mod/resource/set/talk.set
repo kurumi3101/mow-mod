@@ -42,6 +42,7 @@
 	("phrase_voice" args %0 jap 2 %1)
 	
 	("phrase_voice" args %0 nepgear 1 %1)
+	("phrase_voice" args %0 kurumi 1 %1)
 )
 
 (define "human_phrases"

@@ -1,0 +1,7 @@
+{material bump
+	{diffuse "$/inventory/weapon/silenser"}
+	{bump "$/inventory/weapon/silenser_bp"}
+	{specular "$/inventory/weapon/silenser_sp"}
+	{color "230 230 230 152"}
+	{blend none}
+}

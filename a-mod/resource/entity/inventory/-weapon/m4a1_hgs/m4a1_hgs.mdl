@@ -1,0 +1,101 @@
+;Exported by: Art
+;Date:        Wed Mar 23 13:32:41 2016
+;File:        E:\Autodesk\Low poly\freelance\DMS 2.0\Weapons\M4 carbine\export\M4A1_hgs.max
+{Skeleton
+	{bone "m4a1"
+		{parameters "ID=mgun;"}
+		{Orientation
+			1	0	0
+			0	-1	0
+			0	0	1
+		}
+		{LODView
+			{VolumeView "m4a1.ply"}
+			{VolumeView "m4a1_lod1.ply"}
+		}
+		{bone "fxshell"
+			{Matrix34
+				0	-0.978148	0.20791
+				-1	0	0
+				0	-0.20791	-0.978148
+				1.70619	1.44076	0.288781
+			}
+		}
+		{bone "handle"
+			{Matrix34
+				1	0	0
+				0	0	-1
+				0	1	0
+				-0.921911	1.64062	-0.00340315
+			}
+		}
+		{bone "foresight3"
+			{Position 12.6977	1.28977	0.00179616}
+		}
+		{bone "fx_light"
+			{parameters "LastPose = undefined;"}
+			{Position 6.75342	1.7606	0.685539}
+		}
+	}
+}
+{Volume "body"
+	{Box 16.8008 4.11171 1.18138}
+	{Bone "m4a1"}
+	{Matrix34
+		0.999657	0.0261769	0
+		-0.0261769	0.999657	0
+		0	0	1
+		2.17117	0.385438	0.0704778
+	}
+}
+{Volume "select"
+	{Box 22.047 9.11718 2.39379}
+	{Bone "m4a1"}
+	{Position 2.71533	0.706928	0.00202608}
+}
+{Extender "preview"
+	{"Stuff"
+		{camera
+			{origin 3.18014	-1.54406	47.3174}
+			{lookat 3.18015	-0.510945	0.0157502}
+			{fov 23.9132}
+			{horizon -172.326}
+		}
+		{lights
+			{"0"
+				{type point}
+				{position 1.41153	24.5609	-15.927}
+			}
+			{"1"
+				{type directional}
+				{direction 0.000714619	0.386975	-0.316622}
+			}
+			{"2"
+				{type point}
+				{position 1.5714	-13.3197	20.2469}
+			}
+		}
+	}
+	{"Stuff_primary"
+		{camera
+			{origin 3.21715	-1.47651	47.1464}
+			{lookat 3.21716	-0.447163	0.0171579}
+			{fov 23.9132}
+			{horizon -174.326}
+		}
+		{lights
+			{"0"
+				{type point}
+				{position 1.41153	24.5609	-15.927}
+			}
+			{"1"
+				{type directional}
+				{direction 0.000714645	0.386975	-0.316622}
+			}
+			{"2"
+				{type point}
+				{position 1.5714	-13.3197	20.2469}
+			}
+		}
+	}
+}
